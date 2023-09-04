@@ -1,6 +1,6 @@
 # Website
 
-This repo contains the source code of my website. This website uses [minimal light](https://github.com/yaoyao-liu/minimal-light) theme.
+This repo contains the source code of my website. This website is based on [minimal light](https://github.com/yaoyao-liu/minimal-light) theme.
 
 ## Project Architecture
 
