@@ -14,7 +14,7 @@ He received an MD from Tokyo Medical and Dental University, trained at the Okina
 
 ## News
 
-- **August 2023** Our new package <a href = "https://github.com/mmukaigawara/geocausal/" style = "text-decoration:none;">geocausal</a> is now available through CRAN.
+- Our new package <a href = "https://github.com/mmukaigawara/geocausal/" style = "text-decoration:none;">geocausal</a> is now available through CRAN. (August 2023)
 
 {% include_relative _includes/software.md %}
 
