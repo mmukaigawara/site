@@ -1,5 +1,5 @@
 current directory: /Users/mitsurumukaigawara/Library/CloudStorage/Dropbox/Personal/site/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.23.10/ext/commonmarker
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20230904-77539-ace8ow.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20230904-79055-1mmdo5.rb extconf.rb
 creating Makefile
 
 current directory: /Users/mitsurumukaigawara/Library/CloudStorage/Dropbox/Personal/site/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.23.10/ext/commonmarker
