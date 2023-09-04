@@ -2,7 +2,8 @@
 
 <h4 style="margin:0 10px 0;">Medicine</h4>
 
-<ol style="margin:0 0 5px;">
+<ol style="margin:0 0 5px;font-size:14px">
+  <!-- BMJ Open 2022 -->
   <li><a href="https://bmjopen.bmj.com/content/12/7/e056996/">Impact of the national health guidance intervention for obesity and cardiovascular risks on healthcare utilisation and healthcare spending in working-age Japanese cohort: Regression discontinuity design.</a>
   <br>Shingo Fukuma, Mitsuru Mukaigawara, Toshiaki Iizuka, and Yusuke Tsugawa.
   <br><i>BMJ Open.</i> 2022;12(7):e056996.</li>
