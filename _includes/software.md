@@ -3,7 +3,7 @@
 <div class="software">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.software.main %}
 
 <li>
 <div class="pub-row">
