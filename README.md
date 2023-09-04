@@ -35,25 +35,6 @@ This template can be used in the following two ways:
 
 The detailed instructions are available below.
 
-
-### Using with the GitHub Pages Service
-
-There are two ways to use this template on GitHub:
-
-#### Fork this repository
-- Fork this repository (or [use this repository as a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) and change the name to `your-username.github.io`.
-
-- Enable the GitHub pages for that repository following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
-
-#### Using this repository as a remote theme
-To use this theme, add the following to your repository's `_config.yml`:
-
-```yaml
-remote_theme: yaoyao-liu/minimal-light
-```
-
-Please note that adding the above line will directly apply all the default settings in this repository to yours.
-
 If you hope to edit any files (e.g., `index.md`), you still need to copy them to your repository.
 
 ### Using Locally with Jekyll
