@@ -2,12 +2,12 @@
 
 <h4 style="margin:0 10px 0;">Medicine</h4>
 
-<ol style="margin:0 0 5px;font-size:14px">
+<ol style="margin:0 0 5px;">
   <!-- BMJ Open 2022 -->
   <li><a href="https://bmjopen.bmj.com/content/12/7/e056996/">Impact of the national health guidance intervention for obesity and cardiovascular risks on healthcare utilisation and healthcare spending in working-age Japanese cohort: Regression discontinuity design.</a>
   <br>Shingo Fukuma, Mitsuru Mukaigawara, Toshiaki Iizuka, and Yusuke Tsugawa.
   <br><i>BMJ Open.</i> 2022;12(7):e056996.</li>
-  <details><summary>Abstract</summary>
+  <details style = "font-size:14px;"><summary>Abstract</summary>
   <b>Objectives:</b> Increases in obesity and cardiovascular diseases contribute to rapidly growing healthcare expenditures in many countries. However, little is known about whether the population-level health guidance intervention for obesity and cardiovascular risk factors is associated with reduced healthcare utilisation and spending. The aim of this study was to investigate the effect of population-level health guidance intervention introduced nationally in Japan on healthcare utilisation and spending.<br>
   <b>Design:</b> Retrospective cohort study, using a quasiexperimental regression discontinuity design. <br>
   <b>Setting:</b> Japan’s nationwide employment-based health insurers. Participants Participants in the national health screening programme (from January 2014 to December 2014) aged 40–74 years.<br>
