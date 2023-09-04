@@ -2,10 +2,9 @@ main:
 
   - title: Impact of the national health guidance intervention for obesity and cardiovascular risks on healthcare utilisation and healthcare spending in working-age Japanese cohort: regression discontinuity design
     authors: Shingo Fukuma, Mitsuru Mukaigawara, Toshiaki Iizuka, and Yusuke Tsugawa
-    conference_short:
     conference: BMJ Open. 2022;12(7):e056996.
-    pdf:
-    code:
-    bibtex:
-    image:
-    notes:
+#    pdf:
+#    code:
+#    bibtex:
+#    image:
+#    notes:
