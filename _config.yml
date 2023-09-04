@@ -1,14 +1,14 @@
 # Basic Information
 title: Mitsuru Mukaigawara
-position: PhD Candidate in Government
+position: PhD Candidate in Government<br>AM Candidate in Statistics
 affiliation: Harvard University
-email: mitsuru_mukaigawara [at] g.harvard.edu
+email: mitsuru_mukaigawara@g.harvard.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
+#keywords: minimal light
 description: Mitsuru Mukaigawara is a PhD candidate in Government at Harvard University.
-canonical: https://minimal-light-theme.yliu.me/
+#canonical: https://minimal-light-theme.yliu.me/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
@@ -25,7 +25,7 @@ favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: false
+enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme

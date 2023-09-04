@@ -16,6 +16,16 @@
   <b>Results:</b> A total of 51,213 individuals within the bandwidth (±6 cm of waist circumference from the cut-off) out of 113,302 screening participants (median age 50.0 years, 11.9% woman) were analysed. We found that the assignment to the national health guidance intervention was associated with fewer outpatient visit days (−1.3 days; 95% CI, −11.4 to −0.5 days; p=0.03). We found no evidence that the assignment to the health guidance intervention was associated with changes in medication or hospitalisation use, or healthcare spending.<br>
   <b>Conclusion:</b> Among working-age, male-focused Japanese from a health insurer of companies of civil engineering and construction, the national health guidance intervention might be associated with a decline in outpatient visits, with no change in medication/hospitalisation use or healthcare spending.<br>
   </details>
+  <!-- Wellcome Open 2018 -->
+    <li><a href="https://bmjopen.bmj.com/content/12/7/e056996/">Balancing science and political economy: Tobacco control and global health.</a>
+  <br>Mitsuru Mukaigawara, Janelle Winters, Genevie Fernandes, and Devi Sridhar.
+  <br><i>Wellcome Open Research.</i> 2018;3:40.</li>
+  <details style = "font-size:14px;"><summary>Abstract</summary>
+  <b>Background:</b> Global tobacco control is a major public health issue, as smoking-related disease burden remains high worldwide. The World Bank and the World Health Organization (WHO) are the driving forces in global tobacco control. However, little research has focused on their development, financing, decision-making, and accountability structures.<br>
+  <b>Methods:</b> We used two strategies to identify the development and structure of global tobacco control initiatives. First, we reviewed the published literature through electronic databases. Second, we conducted grey literature searching. <br>
+  <b>Results:</b> We identified four periods in the Bank’s involvement in global tobacco control, from creation of the evidence base in the 1990s to the implementation of tax reforms. We identified three phases in the WHO’s efforts, from its early recognition of the link between tobacco and health risks in the 1970s to its implementation of the Framework Convention on Tobacco Control. Both organisations are financed by a handful of private philanthropies, and face similar risks for effective tobacco control: reduced accountability and resource mobilisation, poor decision-making authority due to specific donor influence, and difficulty in monitoring and evaluation.<br>
+  <b>Conclusions:</b> Continued attention should be paid not only to the primary health-related outcomes of tobacco use, but also to the decision-making and financing structures to promote tobacco control activities.<br>
+  </details>
 </ol>
 
 
