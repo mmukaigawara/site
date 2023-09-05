@@ -1,4 +1,4 @@
-## Publications
+## Peer-Reviewed Publications
 
 <!-- Medicine -->
 <details><summary><b>Medicine</b></summary>

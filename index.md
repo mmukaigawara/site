@@ -19,6 +19,8 @@ He received an MD from Tokyo Medical and Dental University, trained at the Okina
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/working.md %}
+
 {% include_relative _includes/software.md %}
 
 {% include_relative _includes/teaching.md %}
