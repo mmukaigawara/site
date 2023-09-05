@@ -1,7 +1,7 @@
 ## Publications
 
 <!-- Medicine -->
-<details><summary><h4 style="margin:0 10px 0;">Medicine</h4></summary>
+<details><summary><h4>Medicine</h4></summary>
 
 <ol style="margin:0 0 5px;">
   <!-- BMJ Open 2022 -->
@@ -130,7 +130,7 @@
 <br>
 
 <!-- Case reports -->
-<h4 style="margin:0 10px 0;">Medicine (Clinical Case Reports and Case Series)</h4>
+<details><summary><h4>Medicine (Clinical Case Reports and Case Series)</h4></summary>
 
 <ol style="margin:0 0 5px;">
   <!-- NEJM 2020 -->
@@ -185,9 +185,12 @@
   <br>Mitsuru Mukaigawara, Kazuhito Hirata, and Minoru Wake.
   <br><i>JAMA Cardiology.</i> 2016;1(2):229-30.</li>
 </ol>
+</details>
+
+<br>
 
 <!-- Commentary -->
-<h4 style="margin:0 10px 0;">Commentary</h4>
+<details><summary><h4>Commentary</h4></summary>
 
 <ol style="margin:0 0 5px;">
   <!-- Nat Med 2023 -->
@@ -207,6 +210,7 @@
   <br>Mitsuru Mukaigawara.
   <br><i>JAMA Internal Medicine.</i> 2016;176(11):1603.</li>
 </ol>
+</details>
 
 <!--
 
