@@ -16,12 +16,6 @@
     display: none;
 }
 
-  .topnav img {
-    margin-bottom:-16.5pt;
-    margin-top:-12.5pt;
-    margin-left:30%;
-  }
-
   /* Style the links inside the navigation bar */
   .topnav a.normal {
     float: right;
