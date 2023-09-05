@@ -15,7 +15,6 @@ He received an MD from Tokyo Medical and Dental University, trained at the Okina
 ## News
 
 - Our new R package, <a href = "https://github.com/mmukaigawara/geocausal/" style = "text-decoration:none;">geocausal</a>, is now available through CRAN (August 2023).
-
 - <a href="https://doi.org/10.1038/s41591-023-02377-6">"Lessons from COVID-19 must be learned before the next outbreak"</a> has been published in <i>Nature Medicine</i> (June 2023).
 
 {% include_relative _includes/publications.md %}

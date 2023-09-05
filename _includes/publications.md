@@ -1,7 +1,7 @@
 ## Publications
 
 <!-- Medicine -->
-<h4 style="margin:0 10px 0;">Medicine</h4>
+<details><summary><h4 style="margin:0 10px 0;">Medicine</h4></summary>
 
 <ol style="margin:0 0 5px;">
   <!-- BMJ Open 2022 -->
@@ -125,6 +125,9 @@
   <b>Conclusions/significance:</b> Infection prevention and control strategies should recommend vaccinating immunocompromised patients. Potential for bias and confounding and the presence of heterogeneity mean the evidence reviewed is generally weak, although the directions of effects are consistent. Areas for further research are identified.
   </details>
 </ol>
+</details>
+
+<br>
 
 <!-- Case reports -->
 <h4 style="margin:0 10px 0;">Medicine (Clinical Case Reports and Case Series)</h4>
