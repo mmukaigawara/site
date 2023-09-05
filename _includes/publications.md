@@ -1,7 +1,7 @@
 ## Publications
 
 <!-- Medicine -->
-<details><summary><h4>Medicine</h4></summary>
+<details><summary><b>Medicine</b></summary>
 
 <ol style="margin:0 0 5px;">
   <!-- BMJ Open 2022 -->
@@ -127,10 +127,8 @@
 </ol>
 </details>
 
-<br>
-
 <!-- Case reports -->
-<details><summary><h4>Medicine (Clinical Case Reports and Case Series)</h4></summary>
+<details><summary><b>Medicine (Clinical Case Reports and Case Series)</b></summary>
 
 <ol style="margin:0 0 5px;">
   <!-- NEJM 2020 -->
@@ -187,10 +185,8 @@
 </ol>
 </details>
 
-<br>
-
 <!-- Commentary -->
-<details><summary><h4>Commentary</h4></summary>
+<details><summary><b>Commentary</b></summary>
 
 <ol style="margin:0 0 5px;">
   <!-- Nat Med 2023 -->
