@@ -1,5 +1,6 @@
 ## Publications
 
+<!-- Medicine -->
 <h4 style="margin:0 10px 0;">Medicine</h4>
 
 <ol style="margin:0 0 5px;">
@@ -125,6 +126,84 @@
   </details>
 </ol>
 
+<!-- Case reports -->
+<h4 style="margin:0 10px 0;">Medicine (Clinical Case Reports and Case Series)</h4>
+
+<ol style="margin:0 0 5px;">
+  <!-- NEJM 2020 -->
+  <li><a href="https://www.nejm.org/doi/full/10.1056/NEJMcps1910306">Clinical problem-solving: A curve ball.</a>
+  <br>Mitsuru Mukaigawara, Reza Manesh, Mitsuyo Kinjo, Shuichi Sugita, and Andrew PJ Olson.
+  <br><i>New England Journal of Medicine.</i> 2020;383(10):970-975.</li>
+  <!-- IM 2020 -->
+  <li><a href="https://www.jstage.jst.go.jp/article/internalmedicine/59/16/59_4430-20/_article">Acute aortic dissection masquerading as acute pericarditis.</a>
+  <br>Kazuhito Hirata, Jun-Ichi Shimotakahara, Izumi Nakayama, Mitsuru Mukaigawara, Minoru Wake, Toshiho Tengan, and Hidemitsu Mototake.
+  <br><i>Internal Medicine.</i> 2020;59(16):2009-2013.</li>
+  <details style = "font-size:13px;"><summary>Abstract</summary>
+  We herein report 3 cases of acute aortic dissection (AAD) in which the initial 12-lead electrocardiogram showed typical ST elevation consistent with acute pericarditis. All patients exhibited small pericardial effusion but did not suffer from rupture into the pericardium or clinical tamponade. Slow leakage or exudate stemming from the dissecting hematoma appeared to have caused inflammation, resulting in pericarditis. Therefore, we highlight the fact that AAD may masquerade as acute pericarditis. Physicians should be aware of the possibility of type A AAD as an important underlying condition, since the early diagnosis and subsequent surgical treatment may save patients' lives.
+  </details>
+  <!-- JAMA Oncology 2020 -->
+  <li><a href="https://jamanetwork.com/journals/jamaoncology/fullarticle/10.1001/jamaoncol.2019.5863">Progressive dyspnea in a woman with genital skin lesions.</a>
+  <br>Hiroyuki Teruya, Mitsuru Mukaigawara, and Kazuhito Hirata.
+  <br><i>JAMA Oncology.</i> 2020;6(3):433-434.</li>
+  <!-- EID 2020 -->
+  <li><a href="https://wwwnc.cdc.gov/eid/article/26/3/19-0571_article">Clinical characteristics of disseminated strongyloidiasis, Japan, 1975-2017.</a>
+  <br>Mitsuru Mukaigawara, Masashi Narita, Soichi Shiiki, Yoshihiro Takayama, Shunichi Takakura, and Tomokazu Kishaba.
+  <br><i>Emerging Infectious Diseases.</i> 2020;26(3):401-408.</li>
+  <details style = "font-size:13px;"><summary>Abstract</summary>
+  Clinical characteristics of disseminated strongyloidiasis, the severest form of strongyloidiasis, are not well described. We conducted a retrospective, consecutive chart review of patients with disseminated strongyloidiasis admitted to Okinawa Chubu Hospital in Okinawa, Japan, during January 1975–December 2017. The 70 patients were classified into 3 clinical phenotypes: dissemination (32 patients [45.7%]), occult dissemination with meningitis caused by enteric organisms (12 patients [17.1%]), and occult dissemination with culture-negative suppurative meningitis (26 patients [37.1%]). Associated mortality rates were 56.3%, 16.7%, and 11.5%, respectively, and sepsis occurred in 40.6%, 58.3%, and 11.5% of cases, respectively. Common symptoms included fever (52.9% of patients), headache (32.9%), and altered mental status (24.3%). Patients were treated with thiabendazole (before 2003) or ivermectin (after 2003). Our findings show that disseminated strongyloidiasis has clinical phenotypes in terms of severity and that identification of occult dissemination, a mild form with prominent neurologic manifestations, is lifesaving.
+  </details>
+  <!-- JHM 2019 -->
+  <li><a href="https://shmpublications.onlinelibrary.wiley.com/doi/abs/10.12788/jhm.3224">Clinical care conundrums: Past is prologue.</a>
+  <br>Mitsuru Mukaigawara, Mitsuyo Kinjo, Andrew PJ Olson, Yoshihiko Raita, and Vivek K Murthy.
+  <br><i>Journal of Hospital Medicine.</i> 2019;14(8):501-505.</li>
+  <!-- AJTMH 2019 -->
+  <li><a href="https://www.ajtmh.org/view/journals/tpmd/100/5/article-p1037.xml">Acute esophageal necrosis associated with Strongyloides stercoralis hyperinfection.</a>
+  <br>Maiko Tomori, Mitsuru Mukaigawara, and Masashi Narita.
+  <br><i>American Journal of Tropical Medicine and Hygiene.</i> 2019;100(5):1037-1038.</li>
+  <!-- Lancet ID 2019 -->
+  <li><a href="https://www.thelancet.com/pdfs/journals/laninf/PIIS1473-3099(18)30434-1">Severe CNS angiostrongyliasis in a young marine: a case report and literature review.</a>
+  <br>Liane McAuliffe, Shannon Fortin Ensign, Derek Larson, Mary Bavaro, Joseph Yetto, Michael Cathey, Mitsuru Mukaigawara, Masashi Narita, Kiyofumi Ohkusu, Timothy Quast, and Charles Volk.
+  <br><i>Lancet Infectious Diseases.</i> 2019;19(4):e132-e142.</li>
+  <details style = "font-size:13px;"><summary>Abstract</summary>
+  Angiostrongylus cantonensis is the most common cause of eosinophilic meningitis worldwide. Infection typically occurs through ingestion of undercooked molluscs or vegetables contaminated by infective larvae. Endemic regions were previously limited to southeast Asia and the Pacific basin; however, this parasite is seeing an alarming increase in global distribution with reported cases in more than 30 countries, including several states in the USA. Although infection typically results in meningitis, a broad spectrum of CNS involvement and severity is emerging as diagnostic methods (such as real-time PCR) continue to improve diagnosis. In this Grand Round, we report a case of a 20-year-old active duty US marine serving in Okinawa, Japan, afflicted with severe CNS angiostrongyliasis marked by radiculomyelitis with quadriparesis, hyperaesthesia, and urinary retention. We present this case to highlight that no clear guidelines exist for the treatment of severe CNS angiostrongyliasis and provide our consensus recommendation that treatment algorithms include use of dual corticosteroids plus anthelmintics when radicular symptoms are present. In this Grand Round we review the clinical features, epidemiology, advances to diagnostic techniques, and available data on current treatment options for CNS angiostrongyliasis. This diagnosis should be highly considered in the differential diagnosis of a patient presenting with meningeal symptoms, paraesthesia or hyperaesthesia, and CSF eosinophilia so that treatment can be started early, which is particularly important in children, because of their increased risk of severe disease and mortality. We recommend combined therapy with albendazole and prednisolone, with consideration for increased steroid dosing in severe cases.
+  </details>
+  <!-- EID 2018 -->
+  <li><a href="https://wwwnc.cdc.gov/eid/article/24/12/18-0375_article">Strongyloidiasis and culture-negative suppurative meningitis, Japan, 1993-2015.</a>
+  <br>Mitsuru Mukaigawara, Izumi Nakayama, and Koichiro Gibo.
+  <br><i>Emerging Infectious Diseases.</i> 2018;24(12):2378-2380.</li>
+  <details style = "font-size:13px;"><summary>Abstract</summary>
+  Community-acquired Enterobacteriaceae infection and culture-negative meningitis are rare and atypical subtypes of meningitis in adults. Of 37 patients who had atypical suppurative meningitis during 1993-2015 in Okinawa, Japan, 54.5% had strongyloidiasis, of which 9.1% cases were hyperinfections and 3.0% dissemination. Strongyloidiasis should be considered an underlying cause of atypical suppurative meningitis.
+  <!-- JAMA 2018 -->
+  <li><a href="https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2018.16143">Fever, rash, and abnormal liver function test results.</a>
+  <br>Mitsuru Mukaigawara and Shuichi Sugita.
+  <br><i>JAMA.</i> 2018;320(24):2591-2592.</li>
+  <!-- JAMA Cardiology 2018 -->
+  <li><a href="https://jamanetwork.com/journals/jamacardiology/fullarticle/10.1001/jamacardio.2015.0338">Diffusely elevated ST segments on electrocardiography.</a>
+  <br>Mitsuru Mukaigawara, Kazuhito Hirata, and Minoru Wake.
+  <br><i>JAMA Cardiology.</i> 2016;1(2):229-30.</li>
+</ol>
+
+<!-- Commentary -->
+<h4 style="margin:0 10px 0;">Commentary</h4>
+
+<ol style="margin:0 0 5px;">
+  <!-- Nat Med 2023 -->
+  <li><a href="https://doi.org/10.1038/s41591-023-02377-6">Lessons from COVID-19 must be learned before the next outbreak.</a>
+  <br>Ines Hassan, Genevie Fernandes, Mitsuru Mukaigawara, and Devi Sridhar.
+  <br><i>Nature Medicine.</i> 2023.</li>
+  <!-- Nat Med 2022 -->
+  <li><a href="https://www.nature.com/articles/s41591-022-01787-2">An equitable roadmap for ending the COVID-19 pandemic.</a>
+  <br>Mitsuru Mukaigawara, Ines Hassan, Genevie Fernandes, Lois King, Jay Patel, and Devi Sridhar.
+  <br><i>Nature Medicine.</i> 2022;28(5):893-896.</li>
+  <!-- Nat Med 2021 -->
+  <li><a href="https://www.nature.com/articles/s41591-021-01272-2">Hindsight is 2020? Lessons in global health governance one year into the pandemic.</a>
+  <br>Ines Hassan, Mitsuru Mukaigawara, Lois King, Genevie Fernandes, and Devi Sridhar.
+  <br><i>Nature Medicine.</i> 2021;27(3):396-400.</li>
+  <!-- JAMA IM 2016 -->
+  <li><a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2553284">Going home, dying.</a>
+  <br>Mitsuru Mukaigawara.
+  <br><i>JAMA Internal Medicine.</i> 2016;176(11):1603.</li>
+</ol>
 
 <!--
 
