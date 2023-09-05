@@ -1,9 +1,12 @@
-<h2 id="software" style="margin: 2px 0px -15px;">Software</h2>
+## Software
 
-<div class="software">
-<ol class="bibliography">
+<ul style="margin:0 0 5px;">
+  <li><a href="https://github.com/mmukaigawara/geocausal">geocausal: Causal inference with spatio-temporal data</a><br>
+  Mitsuru Mukaigawara, Georgia Papadogeorgou, Jason Lyall, and Kosuke Imai.</li>
+</ul>
 
-{% for link in site.data.software.main %}
+
+<!-- {% for link in site.data.software.main %}
 
 <li>
 <div class="pub-row">
@@ -38,4 +41,4 @@
 
 </ol>
 </div>
-
+-->

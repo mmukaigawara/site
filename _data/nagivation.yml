@@ -1,0 +1,17 @@
+main:
+
+  - title: "Bio"
+    url: ./#bio
+    right: true
+
+  - title: "Publications"
+    url: ./#publications
+
+  - title: "Working papers"
+    url: ./#working
+
+  - title: "Software"
+    url: ./#software
+
+  - title: "Teaching"
+    url: ./#teaching

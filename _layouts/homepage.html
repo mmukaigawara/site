@@ -36,9 +36,25 @@
 
   </head>
   <body>
+
+
+    <div class="topnav">
+
+      <a href="{{ site.affiliation_link }}"><img width="190" src="{{ site.affiliation_logo }}"></a>
+
+      <div id="myLinks">
+      {% include navigation.md %}
+      </div>
+
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
+
+    </div>
+
     <div class="wrapper">
       <header>
-        
+
         {% if site.avatar %}
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
@@ -63,7 +79,7 @@
         {% if site.google_scholar %}
         <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
           <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>  
+        </a>
         {% endif %}
 
         {% if site.cv_link %}
@@ -105,7 +121,7 @@
 
       </section>
       <footer>
-        
+
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
