@@ -2,8 +2,8 @@
 .topnav {
     background-color: #f2f2f2;
     overflow: hidden;
-	position:fixed;
-	z-index:999;
+  	position:fixed;
+  	z-index:999;
     width:100%;
   }
 
