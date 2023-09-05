@@ -174,6 +174,7 @@
   <br><i>Emerging Infectious Diseases.</i> 2018;24(12):2378-2380.</li>
   <details style = "font-size:13px;"><summary>Abstract</summary>
   Community-acquired Enterobacteriaceae infection and culture-negative meningitis are rare and atypical subtypes of meningitis in adults. Of 37 patients who had atypical suppurative meningitis during 1993-2015 in Okinawa, Japan, 54.5% had strongyloidiasis, of which 9.1% cases were hyperinfections and 3.0% dissemination. Strongyloidiasis should be considered an underlying cause of atypical suppurative meningitis.
+  </details>
   <!-- JAMA 2018 -->
   <li><a href="https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2018.16143">Fever, rash, and abnormal liver function test results.</a>
   <br>Mitsuru Mukaigawara and Shuichi Sugita.
