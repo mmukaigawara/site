@@ -3,7 +3,7 @@
 <ol style="margin:0 0 5px;">
   <!-- BMJ Open 2022 -->
   <li>Diplomacy by committee: Assessing resolve and costly signals in group settings.
-  <br><font color="#595959">Carly Wayne, Mitsuru Mukaigawara, Joshua Kertzer, and Marcus Holmes.</font>
+  <br><font color="#c7c2bc">Carly Wayne, Mitsuru Mukaigawara, Joshua Kertzer, and Marcus Holmes.</font>
   <br><i>Revise and Resubmit.</i></li>
   <details style><summary>Abstract</summary>
   Assessing resolve and interpreting costly signals are crucial tasks for leaders engaging in international diplomacy. However, leaders rarely make these decisions in isolation, relying on advisers to help assess adversary intentions. How do group dynamics change the way leaders make these crucial judgments? We field a large-scale group experiment to examine how assessments of resolve vary across group settings. We find groups make significantly higher initial assessments of adversary resolve than individuals do, but also update their beliefs less after receiving new information. In the small group contexts that characterize much foreign policy decision-making then, first impressions may play a stronger role in shaping beliefs than any signals—costly or otherwise—that come afterwards. This has important implications for our understanding of international diplomacy, providing further evidence that the role of "costly signalling" in diplomatic relations is less straightforward than often assumed.
