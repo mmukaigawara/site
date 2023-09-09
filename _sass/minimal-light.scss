@@ -250,10 +250,6 @@ h2 {
   font-size: 157%;
 }
 
-li{
-  margin: 10px 0;
-}
-
 @media (prefers-color-scheme: dark) {
   h1, h3, h4, h5, h6 {
     color:rgb(62, 183, 240);
@@ -397,6 +393,7 @@ header li:first-child a {
 
 header li:last-child a {
   border-radius:0 5px 5px 0;
+  margin-bottom: 10px;
 }
 
 header ul a {
