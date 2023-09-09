@@ -6,7 +6,7 @@
 <ol style="margin:0 0 5px;">
   <!-- BMJ Open 2022 -->
   <li><a href="https://bmjopen.bmj.com/content/12/7/e056996/">Impact of the national health guidance intervention for obesity and cardiovascular risks on healthcare utilisation and healthcare spending in working-age Japanese cohort: Regression discontinuity design.</a>
-  <br>Shingo Fukuma, Mitsuru Mukaigawara, Toshiaki Iizuka, and Yusuke Tsugawa.
+  <br><font color="#a79d96">Shingo Fukuma, Mitsuru Mukaigawara, Toshiaki Iizuka, and Yusuke Tsugawa.</font>
   <br><i>BMJ Open.</i> 2022;12(7):e056996.</li>
   <details><summary>Abstract</summary>
   <b>Objectives:</b> Increases in obesity and cardiovascular diseases contribute to rapidly growing healthcare expenditures in many countries. However, little is known about whether the population-level health guidance intervention for obesity and cardiovascular risk factors is associated with reduced healthcare utilisation and spending. The aim of this study was to investigate the effect of population-level health guidance intervention introduced nationally in Japan on healthcare utilisation and spending.<br>
@@ -19,7 +19,7 @@
   </details>
   <!-- Wellcome Open 2018 -->
     <li><a href="https://bmjopen.bmj.com/content/12/7/e056996/">Balancing science and political economy: Tobacco control and global health.</a>
-  <br>Mitsuru Mukaigawara, Janelle Winters, Genevie Fernandes, and Devi Sridhar.
+  <br><font color="#a79d96">Mitsuru Mukaigawara, Janelle Winters, Genevie Fernandes, and Devi Sridhar.</font>
   <br><i>Wellcome Open Research.</i> 2018;3:40.</li>
   <details><summary>Abstract</summary>
   <b>Background:</b> Global tobacco control is a major public health issue, as smoking-related disease burden remains high worldwide. The World Bank and the World Health Organization (WHO) are the driving forces in global tobacco control. However, little research has focused on their development, financing, decision-making, and accountability structures.<br>
@@ -29,7 +29,7 @@
   </details>
   <!-- Lancet 2015-1 -->
     <li><a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)00128-2/fulltext">Global, regional, and national comparative risk assessment of 79 behavioural, environmental and occupational, and metabolic risks or clusters of risks in 188 countries, 1990–2013: A systematic analysis for the Global Burden of Disease Study 2013.</a>
-  <br>GBD 2013 Risk Factors Collaborators.
+  <br><font color="#a79d96">GBD 2013 Risk Factors Collaborators.</font>
   <br><i>Lancet.</i> 2015;386(10010):2287-323.</li>
   <details><summary>Abstract</summary>
   <b>Background:</b> The Global Burden of Disease, Injuries, and Risk Factor study 2013 (GBD 2013) is the first of a series of annual updates of the GBD. Risk factor quantification, particularly of modifiable risk factors, can help to identify emerging threats to population health and opportunities for prevention. The GBD 2013 provides a timely opportunity to update the comparative risk assessment with new data for exposure, relative risks, and evidence on the appropriate counterfactual risk distribution.<br>
@@ -39,7 +39,7 @@
   </details>
   <!-- Lancet 2015-2 -->
   <li><a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)61340-X/fulltext">Global, regional, and national disability-adjusted life years (DALYs) for 306 diseases and injuries and healthy life expectancy (HALE) for 188 countries, 1990–2013: Quantifying the epidemiological transition.</a>
-  <br>GBD 2013 DALYs and HALE Collaborators.
+  <br><font color="#a79d96">GBD 2013 DALYs and HALE Collaborators.</font>
   <br><i>Lancet.</i> 2015;386(10009):2145-91.</li>
   <details><summary>Abstract</summary>
   <b>Background:</b> The Global Burden of Disease Study 2013 (GBD 2013) aims to bring together all available epidemiological data using a coherent measurement framework, standardised estimation methods, and transparent data sources to enable comparisons of health loss over time and across causes, age-sex groups, and countries. The GBD can be used to generate summary measures such as disability-adjusted life-years (DALYs) and healthy life expectancy (HALE) that make possible comparative assessments of broad epidemiological patterns across countries and time. These summary measures can also be used to quantify the component of variation in epidemiology that is related to sociodemographic development.<br>
@@ -49,7 +49,7 @@
   </details>
   <!-- Lancet 2015-3 -->
   <li><a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60692-4/fulltext">Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: A systematic analysis for the Global Burden of Disease Study 2013.</a>
-  <br>GBD Study 2013 Collaborators.
+  <br><font color="#a79d96">GBD Study 2013 Collaborators.</font>
   <br><i>Lancet.</i> 2015;386(9995):743-800.</li>
   <details><summary>Abstract</summary>
   <b>Background:</b> Up-to-date evidence about levels and trends in disease and injury incidence, prevalence, and years lived with disability (YLDs) is an essential input into global, regional, and national health policies. In the Global Burden of Disease Study 2013 (GBD 2013), we estimated these quantities for acute and chronic diseases and injuries for 188 countries between 1990 and 2013.<br>
@@ -59,7 +59,7 @@
   </details>
   <!-- Lancet 2015-4 -->
   <li><a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)61682-2/fulltext">Global, regional, and national age-sex specific all-cause and cause-specific mortality for 240 causes of death, 1990-2013: A systematic analysis for the Global Burden of Disease Study 2013.</a>
-  <br>GBD 2013 Mortality and Causes of Death Collaborators.
+  <br><font color="#a79d96">GBD 2013 Mortality and Causes of Death Collaborators.</font>
   <br><i>Lancet.</i> 2015;385(9963):117-71.</li>
   <details><summary>Abstract</summary>
   <b>Background:</b> Up-to-date evidence on levels and trends for age-sex-specific all-cause and cause-specific mortality is essential for the formation of global, regional, and national health policies. In the Global Burden of Disease Study 2013 (GBD 2013) we estimated yearly deaths for 188 countries between 1990, and 2013. We used the results to assess whether there is epidemiological convergence across countries.<br>
@@ -69,7 +69,7 @@
   </details>
   <!-- Lancet 2014-1 -->
   <li><a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)60696-6/fulltext">Global, regional, and national levels and causes of maternal mortality during 1990–2013: A systematic analysis for the Global Burden of Disease Study 2013.</a>
-  <br>GBD 2013 Mortality and Causes of Death Collaborators.
+  <br><font color="#a79d96">GBD 2013 Mortality and Causes of Death Collaborators.</font>
   <br><i>Lancet.</i> 2014;384(9947):980-1004.</li>
   <details><summary>Abstract</summary>
   <b>Background:</b> The fifth Millennium Development Goal (MDG 5) established the goal of a 75% reduction in the maternal mortality ratio (MMR; number of maternal deaths per 100,000 livebirths) between 1990 and 2015. We aimed to measure levels and track trends in maternal mortality, the key causes contributing to maternal death, and timing of maternal death with respect to delivery.<br>
@@ -79,7 +79,7 @@
   </details>
   <!-- Lancet 2014-2 -->
   <li><a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(14)60844-8/fulltext">Global, regional, and national incidence and mortality for HIV, tuberculosis, and malaria during 1990–2013: A systematic analysis for the Global Burden of Disease Study 2013.</a>
-  <br>GBD 2013 Collaborators.
+  <br><font color="#a79d96">GBD 2013 Collaborators.</font>
   <br><i>Lancet.</i> 2014;384(9947):1005-70.</li>
   <details><summary>Abstract</summary>
   <b>Background:</b> The Millennium Declaration in 2000 brought special global attention to HIV, tuberculosis, and malaria through the formulation of Millennium Development Goal (MDG) 6. The Global Burden of Disease 2013 study provides a consistent and comprehensive approach to disease estimation for between 1990 and 2013, and an opportunity to assess whether accelerated progress has occured since the Millennium Declaration.<br>
@@ -89,35 +89,35 @@
   </details>
   <!-- IORV 2013-1 -->
   <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/irv.12087">Vaccination of healthcare workers to protect patients at increased risk of acute respiratory disease: Summary of a systematic review.</a>
-  <br>Gayle P Dolan, Rebecca C Harris, Mandy Clarkson, Rachel Sokal, Gemma Morgan, Mitsuru Mukaigawara, Hiroshi Horiuchi, Rachel Hale, Laura Stormont, Laura Béchard-Evans, Yi-Sheng Chao, Sergey Eremin, Sara Martins, John S Tam, Javier Peñalver, Arina Zanuzdana, and Jonathan S Nguyen-Van-Tam.
+  <br><font color="#a79d96">Gayle P Dolan, Rebecca C Harris, Mandy Clarkson, Rachel Sokal, Gemma Morgan, Mitsuru Mukaigawara, Hiroshi Horiuchi, Rachel Hale, Laura Stormont, Laura Béchard-Evans, Yi-Sheng Chao, Sergey Eremin, Sara Martins, John S Tam, Javier Peñalver, Arina Zanuzdana, and Jonathan S Nguyen-Van-Tam.</font>
   <br><i>Influenza and Other Respiratory Viruses.</i> 2013;7(Suppl 2):93-96.</li>
   <details><summary>Abstract</summary>
   Healthcare workers (HCWs) are at increased risk of exposure to respiratory pathogens and may transmit infection to vulnerable patients. This study summarises a recent systematic review, which aimed to assess evidence that influenza or pneumococcal vaccination of HCWs provides indirect protection for those patients most at risk of severe or complicated acute respiratory infection. A number of healthcare databases and sources of grey literature were searched using a predefined strategy, and citations screened for eligibility in accordance with specified inclusion criteria. Risk of bias was assessed using validated tools and results summarised qualitatively. Twenty papers were included in the final review, all of which considered influenza vaccination of HCW. As such, planned subanalysis of pneumococcal vaccination was discarded. The majority of primary research studies included (11/14) were conducted in long-term care facilities, but there was marked heterogeneity in terms of the population, intervention/exposure and outcomes considered. Consistency in the direction of effect was observed across several different outcome measures, suggesting that influenza vaccination of HCWs is likely to offer some protection. Further evidence is, however, required from acute care settings.
   </details>
   <!-- IORV 2013-2 -->
   <li><a href="https://onlinelibrary.wiley.com/doi/full/10.1111/irv.12084">Influenza vaccination for immunocompromised patients: Summary of a systematic review and meta-analysis.</a>
-  <br>Charles R Beck, Bruce C McKenzie, Ahmed B Hashim, Rebecca C Harris, Arina Zanuzdana, Gabriel Agboado, Elizabeth Orton, Laura Béchard‐Evans, Gemma Morgan, Charlotte Stevenson, Rachel Weston, Mitsuru Mukaigawara, Joanne Enstone, Glenda Augustine, Mobasher Butt, Sophie Kim, Richard Puleston, Girija Dabke, Robert Howard, Julie O'Boyle, Mary O'Brien, Lauren Ahyow, Helene Denness, Siobhan Farmer, Jose Figureroa, Paul Fisher, Felix Greaves, Munib Haroon, Sophie Haroon, Caroline Hird, Rachel Isba, David A Ishola, Marko Kerac, Vivienne Parish, Jonathan Roberts, Julia Rosser, Sarah Theaker, Dean Wallace, Neil Wigglesworth, Liz Lingard, Yana Vinogradova, Hiroshi Horiuchi, Javier Peñalver, and Jonathan S Nguyen‐Van‐Tam.
+  <br><font color="#a79d96">Charles R Beck, Bruce C McKenzie, Ahmed B Hashim, Rebecca C Harris, Arina Zanuzdana, Gabriel Agboado, Elizabeth Orton, Laura Béchard‐Evans, Gemma Morgan, Charlotte Stevenson, Rachel Weston, Mitsuru Mukaigawara, Joanne Enstone, Glenda Augustine, Mobasher Butt, Sophie Kim, Richard Puleston, Girija Dabke, Robert Howard, Julie O'Boyle, Mary O'Brien, Lauren Ahyow, Helene Denness, Siobhan Farmer, Jose Figureroa, Paul Fisher, Felix Greaves, Munib Haroon, Sophie Haroon, Caroline Hird, Rachel Isba, David A Ishola, Marko Kerac, Vivienne Parish, Jonathan Roberts, Julia Rosser, Sarah Theaker, Dean Wallace, Neil Wigglesworth, Liz Lingard, Yana Vinogradova, Hiroshi Horiuchi, Javier Peñalver, and Jonathan S Nguyen‐Van‐Tam.</font>
   <br><i>Influenza and Other Respiratory Viruses.</i> 2013;7(Suppl 2):72-75.</li>
   <details><summary>Abstract</summary>
   Vaccination of immunocompromised patients is recommended in many national guidelines to protect against severe or complicated influenza infection. However, due to uncertainties over the evidence base, implementation is frequently patchy and dependent on individual clinical discretion. We conducted a systematic review and meta-analysis to assess the evidence for influenza vaccination in this patient group. Healthcare databases and grey literature were searched and screened for eligibility. Data extraction and assessments of risk of bias were undertaken in duplicate, and results were synthesised narratively and using meta-analysis where possible. Our data show that whilst the serological response following vaccination of immunocompromised patients is less vigorous than in healthy controls, clinical protection is still meaningful, with only mild variation in adverse events between aetiological groups. Although we encountered significant clinical and statistical heterogeneity in many of our meta-analyses, we advocate that immunocompromised patients should be targeted for influenza vaccination.
   </details>
   <!-- JID 2012 -->
   <li><a href="https://academic.oup.com/jid/article/206/8/1250/856364">Influenza vaccination for immunocompromised patients: Systematic review and meta-analysis by etiology.</a>
-  <br>Charles R Beck, Bruce C McKenzie, Ahmed B Hashim, Rebecca C Harris, UNIIC Study Group, and Jonathan S Nguyen-Van-Tam.
+  <br><font color="#a79d96">Charles R Beck, Bruce C McKenzie, Ahmed B Hashim, Rebecca C Harris, UNIIC Study Group, and Jonathan S Nguyen-Van-Tam.</font>
   <br><i>Journal of Infectious Diseases.</i> 2012;206(8):1250-9.</li>
   <details><summary>Abstract</summary>
   Many national guidelines recommend annual influenza vaccination of immunocompromised patients, although the decision to vaccinate is usually at clinical discretion. We conducted a systematic review and meta-analyses to assess the evidence for influenza vaccination in this group, and we report our results by etiology. Meta-analyses showed significantly lower odds of influenza-like illness after vaccination in patients with human immunodeficiency virus (HIV) infection, patients with cancer, and transplant recipients and of laboratory-confirmed influenza in HIV-positive patients, compared with patients receiving placebo or no vaccination. Pooled odds of seroconversion and seroprotection were typically lower in HIV-positive patients, patients with cancer, and transplant recipients, compared with immunocompetent controls. Vaccination was generally well tolerated, with variation in mild adverse events between etiological groups. Limited evidence of a transient increase in viremia and a decrease in the percentage of CD4+ cells in HIV-positive patients was found although not accompanied by worsening of clinical symptoms. Clinical judgment remains important when discussing the benefits and safety profile with immunocompromised patients.
   </details>
   <!-- EID 2012 -->
   <li><a href="https://wwwnc.cdc.gov/eid/article/18/8/11-1355_article">Vaccination of health care workers to protect patients at increased risk for acute respiratory disease.</a>
-  <br>Gayle P Dolan, Rebecca C Harris, Mandy Clarkson, Rachel Sokal, Gemma Morgan, Mitsuru Mukaigawara, Hiroshi Horiuchi, Rachel Hale, Laura Stormont, Laura Béchard-Evans, Yi-Sheng Chao, Sergey Eremin, Sara Martins, John S Tam, Javier Peñalver, Arina Zanuzdana, and Jonathan S Nguyen-Van-Tam.
+  <br><font color="#a79d96">Gayle P Dolan, Rebecca C Harris, Mandy Clarkson, Rachel Sokal, Gemma Morgan, Mitsuru Mukaigawara, Hiroshi Horiuchi, Rachel Hale, Laura Stormont, Laura Béchard-Evans, Yi-Sheng Chao, Sergey Eremin, Sara Martins, John S Tam, Javier Peñalver, Arina Zanuzdana, and Jonathan S Nguyen-Van-Tam.</font>
   <br><i>Emerging Infectious Diseases.</i> 2012;18(8):1225-34.</li>
   <details><summary>Abstract</summary>
   Health care workers (HCWs) may transmit respiratory infection to patients. We assessed evidence for the effectiveness of vaccinating HCWs to provide indirect protection for patients at risk for severe or complicated disease after acute respiratory infection. We searched electronic health care databases and sources of gray literature by using a predefined strategy. Risk for bias was assessed by using validated tools, and results were synthesized by using a narrative approach. Seventeen of the 12,352 identified citations met the full inclusion criteria, and 3 additional articles were identified from reference or citation tracking. All considered influenza vaccination of HCWs, and most were conducted in long-term residential care settings. Consistency in the direction of effect was observed across several different outcome measures, suggesting a likely protective effect for patients in residential care settings. However, evidence was insufficient for us to confidently extrapolate this to other at-risk patient groups.
   </details>
   <!-- PLoS 2011 -->
   <li><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0029249">Influenza vaccination for immunocompromised patients: Systematic review and meta-analysis from a public health policy perspective.</a>
-  <br>Charles R Beck, Bruce C McKenzie, Ahmed B Hashim, Rebecca C Harris, Arina Zanuzdana, Gabriel Agboado, Elizabeth Orton, Laura Béchard-Evans, Gemma Morgan, Charlotte Stevenson, Rachel Weston, Mitsuru Mukaigawara, Joanne Enstone, Glenda Augustine, Mobasher Butt, Sophie Kim, Richard Puleston, Girija Dabke, Robert Howard, Julie O'Boyle, Mary O'Brien, Lauren Ahyow, Helene Denness, Siobhan Farmer, Jose Figureroa, Paul Fisher, Felix Greaves, Munib Haroon, Sophie Haroon, Caroline Hird, Rachel Isba, David A Ishola, Marko Kerac, Vivienne Parish, Jonathan Roberts, Julia Rosser, Sarah Theaker, Dean Wallace, Neil Wigglesworth, Liz Lingard, Yana Vinogradova, Hiroshi Horiuchi, Javier Peñalver, and Jonathan S Nguyen-Van-Tam.
+  <br><font color="#a79d96">Charles R Beck, Bruce C McKenzie, Ahmed B Hashim, Rebecca C Harris, Arina Zanuzdana, Gabriel Agboado, Elizabeth Orton, Laura Béchard-Evans, Gemma Morgan, Charlotte Stevenson, Rachel Weston, Mitsuru Mukaigawara, Joanne Enstone, Glenda Augustine, Mobasher Butt, Sophie Kim, Richard Puleston, Girija Dabke, Robert Howard, Julie O'Boyle, Mary O'Brien, Lauren Ahyow, Helene Denness, Siobhan Farmer, Jose Figureroa, Paul Fisher, Felix Greaves, Munib Haroon, Sophie Haroon, Caroline Hird, Rachel Isba, David A Ishola, Marko Kerac, Vivienne Parish, Jonathan Roberts, Julia Rosser, Sarah Theaker, Dean Wallace, Neil Wigglesworth, Liz Lingard, Yana Vinogradova, Hiroshi Horiuchi, Javier Peñalver, and Jonathan S Nguyen-Van-Tam.</font>
   <br><i>PLoS One.</i> 2011;6(12):e29249.</li>
   <details><summary>Abstract</summary>
   <b>Background:</b> Immunocompromised patients are vulnerable to severe or complicated influenza infection. Vaccination is widely recommended for this group. This systematic review and meta-analysis assesses influenza vaccination for immunocompromised patients in terms of preventing influenza-like illness and laboratory confirmed influenza, serological response and adverse events.<br>
@@ -133,55 +133,55 @@
 <ol style="margin:0 0 5px;">
   <!-- NEJM 2020 -->
   <li><a href="https://www.nejm.org/doi/full/10.1056/NEJMcps1910306">Clinical problem-solving: A curve ball.</a>
-  <br>Mitsuru Mukaigawara, Reza Manesh, Mitsuyo Kinjo, Shuichi Sugita, and Andrew PJ Olson.
+  <br><font color="#a79d96">Mitsuru Mukaigawara, Reza Manesh, Mitsuyo Kinjo, Shuichi Sugita, and Andrew PJ Olson.</font>
   <br><i>New England Journal of Medicine.</i> 2020;383(10):970-975.</li>
   <!-- IM 2020 -->
   <li><a href="https://www.jstage.jst.go.jp/article/internalmedicine/59/16/59_4430-20/_article">Acute aortic dissection masquerading as acute pericarditis.</a>
-  <br>Kazuhito Hirata, Jun-Ichi Shimotakahara, Izumi Nakayama, Mitsuru Mukaigawara, Minoru Wake, Toshiho Tengan, and Hidemitsu Mototake.
+  <br><font color="#a79d96">Kazuhito Hirata, Jun-Ichi Shimotakahara, Izumi Nakayama, Mitsuru Mukaigawara, Minoru Wake, Toshiho Tengan, and Hidemitsu Mototake.</font>
   <br><i>Internal Medicine.</i> 2020;59(16):2009-2013.</li>
   <details><summary>Abstract</summary>
   We herein report 3 cases of acute aortic dissection (AAD) in which the initial 12-lead electrocardiogram showed typical ST elevation consistent with acute pericarditis. All patients exhibited small pericardial effusion but did not suffer from rupture into the pericardium or clinical tamponade. Slow leakage or exudate stemming from the dissecting hematoma appeared to have caused inflammation, resulting in pericarditis. Therefore, we highlight the fact that AAD may masquerade as acute pericarditis. Physicians should be aware of the possibility of type A AAD as an important underlying condition, since the early diagnosis and subsequent surgical treatment may save patients' lives.
   </details>
   <!-- JAMA Oncology 2020 -->
   <li><a href="https://jamanetwork.com/journals/jamaoncology/fullarticle/10.1001/jamaoncol.2019.5863">Progressive dyspnea in a woman with genital skin lesions.</a>
-  <br>Hiroyuki Teruya, Mitsuru Mukaigawara, and Kazuhito Hirata.
+  <br><font color="#a79d96">Hiroyuki Teruya, Mitsuru Mukaigawara, and Kazuhito Hirata.</font>
   <br><i>JAMA Oncology.</i> 2020;6(3):433-434.</li>
   <!-- EID 2020 -->
   <li><a href="https://wwwnc.cdc.gov/eid/article/26/3/19-0571_article">Clinical characteristics of disseminated strongyloidiasis, Japan, 1975-2017.</a>
-  <br>Mitsuru Mukaigawara, Masashi Narita, Soichi Shiiki, Yoshihiro Takayama, Shunichi Takakura, and Tomokazu Kishaba.
+  <br><font color="#a79d96">Mitsuru Mukaigawara, Masashi Narita, Soichi Shiiki, Yoshihiro Takayama, Shunichi Takakura, and Tomokazu Kishaba.</font>
   <br><i>Emerging Infectious Diseases.</i> 2020;26(3):401-408.</li>
   <details><summary>Abstract</summary>
   Clinical characteristics of disseminated strongyloidiasis, the severest form of strongyloidiasis, are not well described. We conducted a retrospective, consecutive chart review of patients with disseminated strongyloidiasis admitted to Okinawa Chubu Hospital in Okinawa, Japan, during January 1975–December 2017. The 70 patients were classified into 3 clinical phenotypes: dissemination (32 patients [45.7%]), occult dissemination with meningitis caused by enteric organisms (12 patients [17.1%]), and occult dissemination with culture-negative suppurative meningitis (26 patients [37.1%]). Associated mortality rates were 56.3%, 16.7%, and 11.5%, respectively, and sepsis occurred in 40.6%, 58.3%, and 11.5% of cases, respectively. Common symptoms included fever (52.9% of patients), headache (32.9%), and altered mental status (24.3%). Patients were treated with thiabendazole (before 2003) or ivermectin (after 2003). Our findings show that disseminated strongyloidiasis has clinical phenotypes in terms of severity and that identification of occult dissemination, a mild form with prominent neurologic manifestations, is lifesaving.
   </details>
   <!-- JHM 2019 -->
   <li><a href="https://shmpublications.onlinelibrary.wiley.com/doi/abs/10.12788/jhm.3224">Clinical care conundrums: Past is prologue.</a>
-  <br>Mitsuru Mukaigawara, Mitsuyo Kinjo, Andrew PJ Olson, Yoshihiko Raita, and Vivek K Murthy.
+  <br><font color="#a79d96">Mitsuru Mukaigawara, Mitsuyo Kinjo, Andrew PJ Olson, Yoshihiko Raita, and Vivek K Murthy.</font>
   <br><i>Journal of Hospital Medicine.</i> 2019;14(8):501-505.</li>
   <!-- AJTMH 2019 -->
   <li><a href="https://www.ajtmh.org/view/journals/tpmd/100/5/article-p1037.xml">Acute esophageal necrosis associated with Strongyloides stercoralis hyperinfection.</a>
-  <br>Maiko Tomori, Mitsuru Mukaigawara, and Masashi Narita.
+  <br><font color="#a79d96">Maiko Tomori, Mitsuru Mukaigawara, and Masashi Narita.</font>
   <br><i>American Journal of Tropical Medicine and Hygiene.</i> 2019;100(5):1037-1038.</li>
   <!-- Lancet ID 2019 -->
   <li><a href="https://www.thelancet.com/pdfs/journals/laninf/PIIS1473-3099(18)30434-1">Severe CNS angiostrongyliasis in a young marine: a case report and literature review.</a>
-  <br>Liane McAuliffe, Shannon Fortin Ensign, Derek Larson, Mary Bavaro, Joseph Yetto, Michael Cathey, Mitsuru Mukaigawara, Masashi Narita, Kiyofumi Ohkusu, Timothy Quast, and Charles Volk.
+  <br><font color="#a79d96">Liane McAuliffe, Shannon Fortin Ensign, Derek Larson, Mary Bavaro, Joseph Yetto, Michael Cathey, Mitsuru Mukaigawara, Masashi Narita, Kiyofumi Ohkusu, Timothy Quast, and Charles Volk.</font>
   <br><i>Lancet Infectious Diseases.</i> 2019;19(4):e132-e142.</li>
   <details><summary>Abstract</summary>
   Angiostrongylus cantonensis is the most common cause of eosinophilic meningitis worldwide. Infection typically occurs through ingestion of undercooked molluscs or vegetables contaminated by infective larvae. Endemic regions were previously limited to southeast Asia and the Pacific basin; however, this parasite is seeing an alarming increase in global distribution with reported cases in more than 30 countries, including several states in the USA. Although infection typically results in meningitis, a broad spectrum of CNS involvement and severity is emerging as diagnostic methods (such as real-time PCR) continue to improve diagnosis. In this Grand Round, we report a case of a 20-year-old active duty US marine serving in Okinawa, Japan, afflicted with severe CNS angiostrongyliasis marked by radiculomyelitis with quadriparesis, hyperaesthesia, and urinary retention. We present this case to highlight that no clear guidelines exist for the treatment of severe CNS angiostrongyliasis and provide our consensus recommendation that treatment algorithms include use of dual corticosteroids plus anthelmintics when radicular symptoms are present. In this Grand Round we review the clinical features, epidemiology, advances to diagnostic techniques, and available data on current treatment options for CNS angiostrongyliasis. This diagnosis should be highly considered in the differential diagnosis of a patient presenting with meningeal symptoms, paraesthesia or hyperaesthesia, and CSF eosinophilia so that treatment can be started early, which is particularly important in children, because of their increased risk of severe disease and mortality. We recommend combined therapy with albendazole and prednisolone, with consideration for increased steroid dosing in severe cases.
   </details>
   <!-- EID 2018 -->
   <li><a href="https://wwwnc.cdc.gov/eid/article/24/12/18-0375_article">Strongyloidiasis and culture-negative suppurative meningitis, Japan, 1993-2015.</a>
-  <br>Mitsuru Mukaigawara, Izumi Nakayama, and Koichiro Gibo.
+  <br><font color="#a79d96">Mitsuru Mukaigawara, Izumi Nakayama, and Koichiro Gibo.</font>
   <br><i>Emerging Infectious Diseases.</i> 2018;24(12):2378-2380.</li>
   <details><summary>Abstract</summary>
   Community-acquired Enterobacteriaceae infection and culture-negative meningitis are rare and atypical subtypes of meningitis in adults. Of 37 patients who had atypical suppurative meningitis during 1993-2015 in Okinawa, Japan, 54.5% had strongyloidiasis, of which 9.1% cases were hyperinfections and 3.0% dissemination. Strongyloidiasis should be considered an underlying cause of atypical suppurative meningitis.
   </details>
   <!-- JAMA 2018 -->
   <li><a href="https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2018.16143">Fever, rash, and abnormal liver function test results.</a>
-  <br>Mitsuru Mukaigawara and Shuichi Sugita.
+  <br><font color="#a79d96">Mitsuru Mukaigawara and Shuichi Sugita.</font>
   <br><i>JAMA.</i> 2018;320(24):2591-2592.</li>
   <!-- JAMA Cardiology 2018 -->
   <li><a href="https://jamanetwork.com/journals/jamacardiology/fullarticle/10.1001/jamacardio.2015.0338">Diffusely elevated ST segments on electrocardiography.</a>
-  <br>Mitsuru Mukaigawara, Kazuhito Hirata, and Minoru Wake.
+  <br><font color="#a79d96">Mitsuru Mukaigawara, Kazuhito Hirata, and Minoru Wake.</font>
   <br><i>JAMA Cardiology.</i> 2016;1(2):229-30.</li>
 </ol>
 </details>
@@ -192,19 +192,19 @@
 <ol style="margin:0 0 5px;">
   <!-- Nat Med 2023 -->
   <li><a href="https://doi.org/10.1038/s41591-023-02377-6">Lessons from COVID-19 must be learned before the next outbreak.</a>
-  <br>Ines Hassan, Genevie Fernandes, Mitsuru Mukaigawara, and Devi Sridhar.
+  <br><font color="#a79d96">Ines Hassan, Genevie Fernandes, Mitsuru Mukaigawara, and Devi Sridhar.</font>
   <br><i>Nature Medicine.</i> 2023.</li>
   <!-- Nat Med 2022 -->
   <li><a href="https://www.nature.com/articles/s41591-022-01787-2">An equitable roadmap for ending the COVID-19 pandemic.</a>
-  <br>Mitsuru Mukaigawara, Ines Hassan, Genevie Fernandes, Lois King, Jay Patel, and Devi Sridhar.
+  <br><font color="#a79d96">Mitsuru Mukaigawara, Ines Hassan, Genevie Fernandes, Lois King, Jay Patel, and Devi Sridhar.</font>
   <br><i>Nature Medicine.</i> 2022;28(5):893-896.</li>
   <!-- Nat Med 2021 -->
   <li><a href="https://www.nature.com/articles/s41591-021-01272-2">Hindsight is 2020? Lessons in global health governance one year into the pandemic.</a>
-  <br>Ines Hassan, Mitsuru Mukaigawara, Lois King, Genevie Fernandes, and Devi Sridhar.
+  <br><font color="#a79d96">Ines Hassan, Mitsuru Mukaigawara, Lois King, Genevie Fernandes, and Devi Sridhar.</font>
   <br><i>Nature Medicine.</i> 2021;27(3):396-400.</li>
   <!-- JAMA IM 2016 -->
   <li><a href="https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2553284">Going home, dying.</a>
-  <br>Mitsuru Mukaigawara.
+  <br><font color="#a79d96">Mitsuru Mukaigawara.</font>
   <br><i>JAMA Internal Medicine.</i> 2016;176(11):1603.</li>
 </ol>
 </details>

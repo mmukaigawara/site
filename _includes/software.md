@@ -2,7 +2,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://github.com/mmukaigawara/geocausal">geocausal: Causal inference with spatio-temporal data</a><br>
-  Mitsuru Mukaigawara, Georgia Papadogeorgou, Jason Lyall, and Kosuke Imai.</li>
+  <font color="#a79d96">Mitsuru Mukaigawara, Georgia Papadogeorgou, Jason Lyall, and Kosuke Imai.</font></li>
 </ul>
 
 

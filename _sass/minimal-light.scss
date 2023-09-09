@@ -388,6 +388,7 @@ header li {
   float:left;
   border-right:1px solid #e0e0e0;
   height:40px;
+  margin-bottom: 10px;
 }
 
 header li:first-child a {
@@ -430,6 +431,7 @@ strong {
 header ul li + li + li {
   border-right:none;
   width:89px;
+  margin-bottom: 10px;
 }
 
 header ul a strong {
@@ -559,7 +561,7 @@ footer {
 
   header li, header ul li + li + li {
     width:33%;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
   }
 
   .image.avatar img {
