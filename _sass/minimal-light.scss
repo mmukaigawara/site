@@ -1,5 +1,5 @@
 .pub-row {
-  display: flex; 
+  display: flex;
   align-items: center;}
 
 .social-icons a{
@@ -7,14 +7,14 @@
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color:#043361!important;
+  color:#002147!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
   line-height:2.5rem;
   margin-right:1rem}
 
-@media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
+@media (prefers-color-scheme: dark) { .social-icons a {color: #3277ae !important; }}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
@@ -37,7 +37,7 @@
 
 @media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#20212b;
     color:black;
-    transform: scale(1.2)} 
+    transform: scale(1.2)}
     /*
     .social-icons a:after {
         content: '';
@@ -105,7 +105,7 @@
 
 email {
     font-size: 14px;
-    font-family: "Ubuntu Mono";
+    font-family: "PT Sans";
 }
 
 .icon-button i{
@@ -230,19 +230,22 @@ papertitle {
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:#043361;
+  font-family: "Playfair Display";
+  color:#002147;
   margin:0 0 20px;
 }
 
 h1 {
   font-weight: 500;
-  color:#043361;
+  font-family: "Playfair Display";
+  color:#002147;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#043361;
+  color:#002147;
   font-weight: 500;
+  font-family: "Playfair Display";
   margin:2px 0px 15px;
   font-size: 157%;
 }
@@ -461,7 +464,7 @@ footer {
 @media print, screen and (max-width: 960px) {
 
   .pub-row {
-  display: flex; 
+  display: flex;
   align-items: center;}
 
   div.wrapper {
@@ -506,11 +509,11 @@ footer {
   #head1o2 {
     visibility: hidden;
   }
-      
+
   #head2o2 {
     visibility: hidden;
   }
-  
+
 }
 
 @media print, screen and (max-width: 960px) {
@@ -520,7 +523,7 @@ footer {
   }
 
   .pub-row {
-  display: flex; 
+  display: flex;
   align-items: center;}
 
   header {
@@ -528,7 +531,7 @@ footer {
   }
 
   header ul, header p.view {
-    
+
   }
 
   pre, code {
@@ -539,7 +542,7 @@ footer {
 @media print, screen and (max-width: 480px) {
 
   .pub-row {
-    display: block; 
+    display: block;
     align-items: center;}
 
   body {
@@ -562,7 +565,7 @@ footer {
   #head1o2 {
     visibility: hidden;
   }
-  
+
   #head2o2 {
     visibility: hidden;
   }
