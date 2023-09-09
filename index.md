@@ -12,10 +12,9 @@ Prior to graduate school, Mukaigawara worked globally both as an infectious dise
 <br>
 He received an MD from Tokyo Medical and Dental University, trained at the Okinawa Chubu Hospital Internal Medicine Residency and Infectious Disease Fellowship, and received an MPP from the Harvard Kennedy School, where he was a Belfer Young Leader / Graham T. Allison, Jr. Student Fellow at the <a href = "https://www.belfercenter.org/" style = "text-decoration:none;">Belfer Center for Science and International Affairs</a> and a recipient of the Robert Belfer Annual Award for the best master’s thesis in international relations.
 
-## News
+<br>
 
-- Our new R package, <a href = "https://github.com/mmukaigawara/geocausal/" style = "text-decoration:none;">geocausal</a>, is now available through CRAN (August 2023).
-- <a href="https://doi.org/10.1038/s41591-023-02377-6">"Lessons from COVID-19 must be learned before the next outbreak"</a> has been published in <i>Nature Medicine</i> (June 2023).
+{% include_relative _includes/news.md %}
 
 <br>
 
