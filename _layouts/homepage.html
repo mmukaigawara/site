@@ -47,11 +47,11 @@
         <h1>{{ site.title }}</h1>
 
         {% if site.position %}
-        <position style="font-size:1rem;">{{ site.position }}</position>
+        <position style="font-size:1rem;font-family:Marcellus">{{ site.position }}</position>
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <position style="font-size:1rem;font-family:Marcellus"><a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a></position>
         <br>
         {% endif %}
         {% if site.email %}
