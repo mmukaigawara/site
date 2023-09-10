@@ -1,7 +1,7 @@
 ## Peer-Reviewed Publications
 
 <!-- Medicine -->
-<details><summary><b>Medicine</b></summary>
+<details><summary><h3>Medicine</h3></summary>
 
 <ol style="margin:0 0 5px;">
   <!-- BMJ Open 2022 -->
