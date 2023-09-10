@@ -1,10 +1,10 @@
 ## News
 
 <ul style="margin:0 0 5px;">
-  <li>[Package] Our new R package, <a href = "https://github.com/mmukaigawara/geocausal/" style = "text-decoration:none;">geocausal</a>, is now available through CRAN (August 2023).</li>
-  <li>[Article] <a href="https://doi.org/10.1038/s41591-023-02377-6">"Lessons from COVID-19 must be learned before the next outbreak"</a> has been published in <i>Nature Medicine</i> (June 2023).</li>
-  <li>[Book] <a href="https://www.igaku-shoin.co.jp/book/detail/110486">"Writing Case Reports"</a> (with Mitsuyo Kinjo, in Japanese) has been published by Igaku Shoin.</li>
-  <li>[Media] <a href="https://gsas.harvard.edu/news/when-disease-spreads-politics">"When disease spreads to politics"</a> has been published on the Harvard Graduate School of Arts and Sciences (GSAS) website (November 2022).</li>
+  <li><b>Package:</b> Our new R package, <a href = "https://github.com/mmukaigawara/geocausal/" style = "text-decoration:none;">geocausal</a>, is now available through CRAN (August 2023).</li>
+  <li><b>Article:</b> <a href="https://doi.org/10.1038/s41591-023-02377-6">"Lessons from COVID-19 must be learned before the next outbreak"</a> has been published in <i>Nature Medicine</i> (June 2023).</li>
+  <li><b>Book:</b> <a href="https://www.igaku-shoin.co.jp/book/detail/110486">"Writing Case Reports"</a> (with Mitsuyo Kinjo, in Japanese) has been published by Igaku Shoin (January 2023).</li>
+  <li><b>Media:</b> <a href="https://gsas.harvard.edu/news/when-disease-spreads-politics">"When disease spreads to politics"</a> has been published on the Harvard Graduate School of Arts and Sciences (GSAS) website (November 2022).</li>
 </ul>
 
 
