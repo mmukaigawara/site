@@ -83,7 +83,7 @@
 
 email {
     font-size: 14px;
-    font-family: "Ubuntu Mono";
+    font-family: "Marcellus";
 }
 
 .icon-button i{
@@ -102,13 +102,13 @@ email {
   z-index:10}
 
 .icon-button .icon-twitter{
-  color:#4099ff}
+  color:#122f53}
 
 .icon-button .icon-facebook{
   color:#4286f4}
 
 .icon-button .icon-github{
-  color:#000;}
+  color:#122f53;}
 
 .icon-button .icon-linkedin{
   color:#0077B5}
@@ -183,21 +183,30 @@ papertitle {
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:#043361;
+  font-family: "Marcellus";
+  color:#122f53;
   margin:0 0 20px;
 }
 
 h1 {
   font-weight: 500;
-  color:#043361;
+  font-family: "Marcellus";
+  color:#122f53;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#043361;
+  color:#122f53;
   font-weight: 500;
+  font-family: "Marcellus";
   margin:2px 0px 15px;
   font-size: 157%;
+}
+
+fontcustom {
+  font-weight: 600;
+  font-family: "Marcellus";
+  color:#122f53;
 }
 
 p, ul, ol, table, pre, dl {
@@ -344,6 +353,11 @@ strong {
 header ul li + li + li {
   border-right:none;
   width:89px;
+  margin-bottom: 10px;
+}
+
+li{
+  margin: 10px 0;
 }
 
 header ul a strong {
@@ -360,7 +374,7 @@ section {
 }
 
 small {
-  font-size:11px;
+  font-size:13px;
 }
 
 hr {
@@ -473,6 +487,7 @@ footer {
 
   header li, header ul li + li + li {
     width:33%;
+    margin-bottom: 10px;
   }
 
   .image.avatar img {
