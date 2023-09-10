@@ -1,3 +1,5 @@
+<h1 id="publications"></h1>
+
 ## Peer-Reviewed Publications
 
 <!-- Medicine -->
