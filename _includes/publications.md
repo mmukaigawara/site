@@ -128,7 +128,7 @@
 </details>
 
 <!-- Case reports -->
-<details><summary><b>Medicine (Clinical Case Reports and Case Series)</b></summary>
+<details><summary><fontcustom>Medicine (Clinical Case Reports and Case Series)</fontcustom></summary>
 
 <ol style="margin:0 0 5px;">
   <!-- NEJM 2020 -->
@@ -187,7 +187,7 @@
 </details>
 
 <!-- Commentary -->
-<details><summary><b>Commentary</b></summary>
+<details><summary><fontcustom>Commentary</fontcustom></summary>
 
 <ol style="margin:0 0 5px;">
   <!-- Nat Med 2023 -->
