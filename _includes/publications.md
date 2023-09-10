@@ -188,7 +188,7 @@
 </ol>
 </details>
 
-<br>
+<spacer size = "32"></spacer>
 
 <!-- Commentary -->
 <details><summary><b>Commentary</b></summary>
