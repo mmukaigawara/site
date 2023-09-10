@@ -429,6 +429,10 @@ header ul li + li + li {
   margin-bottom: 10px;
 }
 
+li{
+  margin: 10px 0;
+}
+
 header ul a strong {
   font-size:14px;
   display:block;
@@ -556,7 +560,7 @@ footer {
 
   header li, header ul li + li + li {
     width:33%;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
   }
 
   .image.avatar img {
