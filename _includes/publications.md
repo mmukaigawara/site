@@ -9,7 +9,7 @@
   <br><font color="#a79d96">Shingo Fukuma, Mitsuru Mukaigawara, Toshiaki Iizuka, and Yusuke Tsugawa.</font>
   <br><i>BMJ Open.</i> 2022;12(7):e056996.</li>
   <details><summary>Abstract</summary>
-  <font-size:"-1">
+  <font size:"-1">
   <b>Objectives:</b> Increases in obesity and cardiovascular diseases contribute to rapidly growing healthcare expenditures in many countries. However, little is known about whether the population-level health guidance intervention for obesity and cardiovascular risk factors is associated with reduced healthcare utilisation and spending. The aim of this study was to investigate the effect of population-level health guidance intervention introduced nationally in Japan on healthcare utilisation and spending.<br>
   <b>Design:</b> Retrospective cohort study, using a quasiexperimental regression discontinuity design. <br>
   <b>Setting:</b> Japan’s nationwide employment-based health insurers. Participants Participants in the national health screening programme (from January 2014 to December 2014) aged 40–74 years.<br>
