@@ -127,6 +127,8 @@
 </ol>
 </details>
 
+<br>
+
 <!-- Case reports -->
 <details><summary><b>Medicine (Clinical Case Reports and Case Series)</b></summary>
 
@@ -185,6 +187,8 @@
   <br><i>JAMA Cardiology.</i> 2016;1(2):229-30.</li>
 </ol>
 </details>
+
+<br>
 
 <!-- Commentary -->
 <details><summary><b>Commentary</b></summary>
