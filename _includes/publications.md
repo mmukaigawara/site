@@ -128,7 +128,7 @@
 </details>
 
 <!-- Case reports -->
-<details><summary><fontcustom>Medicine (Clinical Case Reports and Case Series)</fontcustom></summary>
+<details><summary><fontcustom>Medicine (Case Reports and Case Series)</fontcustom></summary>
 
 <ol style="margin:0 0 5px;">
   <!-- NEJM 2020 -->
