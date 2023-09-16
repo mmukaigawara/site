@@ -193,7 +193,7 @@
   <!-- Nat Med 2023 -->
   <li><a href="https://doi.org/10.1038/s41591-023-02377-6">Lessons from COVID-19 must be learned before the next outbreak.</a>
   <br><font color="#a79d96">Ines Hassan, Genevie Fernandes, Mitsuru Mukaigawara, and Devi Sridhar.</font>
-  <br><i>Nature Medicine.</i> 2023.</li>
+  <br><i>Nature Medicine.</i> 2023;29(9):2171-2173.</li>
   <!-- Nat Med 2022 -->
   <li><a href="https://www.nature.com/articles/s41591-022-01787-2">An equitable roadmap for ending the COVID-19 pandemic.</a>
   <br><font color="#a79d96">Mitsuru Mukaigawara, Ines Hassan, Genevie Fernandes, Lois King, Jay Patel, and Devi Sridhar.</font>
