@@ -4,7 +4,7 @@ layout: homepage
 
 <h1 id="bio"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Bio</h2>
+<h2 style="margin: 0px 0px 10px;">Bio</h2>
 
 Mitsuru Mukaigawara, MD, MPP, is a PhD candidate in Government and an AM candidate in Statistics at <a href = "https://www.gov.harvard.edu/" style = "text-decoration:none;">Harvard University</a>. He studies international relations, political methodology, and political psychology, with a focus on how disease epidemics, health inequities, and their legacy affect public opinion, political phenomena, and political violence at the global level. He is affiliated with the <a href = "https://www.iq.harvard.edu/" style = "text-decoration:none;">Institute for Quantitative Social Science (IQSS)</a> and the <a href = "https://wcfia.harvard.edu/" style = "text-decoration:none;">Weatherhead Center for International Affairs</a>. 
 <br>
