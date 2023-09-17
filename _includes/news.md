@@ -1,4 +1,6 @@
-## News
+<h1 id="news"></h1>
+
+<h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul style="margin:0 0 5px;">
   <li><fontcustom>Package:</fontcustom> Our new R package <a href = "https://github.com/mmukaigawara/geocausal/" style = "text-decoration:none;">"geocausal"</a> is now available through CRAN. (August 2023)</li>
