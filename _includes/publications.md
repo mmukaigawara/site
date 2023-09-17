@@ -1,4 +1,6 @@
-## Peer-Reviewed Publications
+<h1 id="publications"></h1>
+
+<h2 style="margin: 60px 0px 10px;">Peer-Reviewed Publications</h2>
 
 <!-- Medicine -->
 <details><summary><fontcustom>Medicine</fontcustom></summary>
