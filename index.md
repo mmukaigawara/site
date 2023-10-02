@@ -13,22 +13,13 @@ Prior to graduate school, Mukaigawara worked globally both as an infectious dise
 <br>
 He received an MD from Tokyo Medical and Dental University, trained at the Okinawa Chubu Hospital Internal Medicine Residency and Infectious Disease Fellowship, and received an MPP from the Harvard Kennedy School, where he was a Belfer Young Leader / Graham T. Allison, Jr. Student Fellow at the <a href = "https://www.belfercenter.org/" style = "text-decoration:none;">Belfer Center for Science and International Affairs</a> and a recipient of the Robert Belfer Annual Award for the best master’s thesis in international relations.
 <br>
-<br>
 
 {% include_relative _includes/news.md %}
 
-<br>
-
 {% include_relative _includes/publications.md %}
-
-<br>
 
 {% include_relative _includes/working.md %}
 
-<br>
-
 {% include_relative _includes/software.md %}
-
-<br>
 
 {% include_relative _includes/teaching.md %}
