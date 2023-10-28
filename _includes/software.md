@@ -4,7 +4,8 @@
 
 <ol style="margin:0 0 5px;">
   <li><a href="https://github.com/mmukaigawara/geocausal">geocausal: Causal inference with spatio-temporal data</a><br>
-  <font color="#a79d96">Mitsuru Mukaigawara, Georgia Papadogeorgou, Jason Lyall, and Kosuke Imai.</font></li>
+  <font color="#a79d96">Mitsuru Mukaigawara, Georgia Papadogeorgou, Jason Lyall, and Kosuke Imai.</font><br>
+  <a href="https://github.com/mmukaigawara/geocausal">GitHub</a> | <a href="https://cran.r-project.org/package=geocausal">CRAN</a></li>
 </ol>
 
 
