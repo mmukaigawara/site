@@ -3,13 +3,6 @@
 <h2 style="margin: 60px 0px 10px;">Working Papers</h2>
 
 <ol style="margin:0 0 5px;">
-  <!-- Diplomacy by committee -->
-  <li>Diplomacy by committee: Assessing resolve and costly signals in group settings.
-  <br><font color="#a79d96">Carly Wayne, Mitsuru Mukaigawara, Joshua Kertzer, and Marcus Holmes.</font>
-  <br>Revise and Resubmit.</li>
-  <details><summary>Abstract</summary><small>
-  Assessing resolve and interpreting costly signals are crucial tasks for leaders engaging in international diplomacy. However, leaders rarely make these decisions in isolation, relying on advisers to help assess adversary intentions. How do group dynamics change the way leaders make these crucial judgments? We field a large-scale group experiment to examine how assessments of resolve vary across group settings. We find groups make significantly higher initial assessments of adversary resolve than individuals do, but also update their beliefs less after receiving new information. In the small group contexts that characterize much foreign policy decision-making then, first impressions may play a stronger role in shaping beliefs than any signals—costly or otherwise—that come afterwards. This has important implications for our understanding of international diplomacy, providing further evidence that the role of "costly signalling" in diplomatic relations is less straightforward than often assumed.
-  </small></details>
   <!-- geocausal -->
   <li>geocausal: R package for spatio-temporal causal inference.
   <br><font color="#a79d96">Mitsuru Mukaigawara, Georgia Papadogeorgou, Jason Lyall, and Kosuke Imai.</font></li>
