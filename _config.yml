@@ -35,7 +35,11 @@ auto_dark_mode: false
 font: "Sans Serif" # or "Sans Serif"
 
 # Google Analytics ID
+<<<<<<< HEAD
 google_analytics: "G-H25T8JXNQB"
+=======
+google_analytics: G-H25T8JXNQB
+>>>>>>> 378f6d9d884ee893ab8ffa54f13e3c8a231688dd
 
 # The following files will be removed from the generated website.
 exclude:
