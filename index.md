@@ -2,6 +2,8 @@
 layout: homepage
 ---
 
+<h2 style="margin: 0px 0px 30px;"><a href="#bio" style ="text-decoration: none">Bio</a></h2>
+
 <h1 id="bio"></h1>
 <h2 style="margin: -15px 0px 40px;">Bio</h2>
 
