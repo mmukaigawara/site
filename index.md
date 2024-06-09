@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-<fontcustom style="margin: 0px 0px 30px; text-align: justify">
+<fontcustom style="margin: 0px 0px 30px; text-align: justify;">
 <a href="#bio" style ="text-decoration: none">Bio</a>&emsp;
 <a href="#news" style ="text-decoration: none">News</a>&emsp;
 <a href="#publications" style ="text-decoration: none">Publications</a>&emsp;
