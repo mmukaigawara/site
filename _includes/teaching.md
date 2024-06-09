@@ -1,6 +1,6 @@
 <h1 id="teaching"></h1>
 
-<h2 style="margin: 100px 0px 60px;">Teaching</h2>
+<h2 style="margin: 100px 0px 60px;">| Teaching</h2>
 
 <ul style="margin:0 0 5px;">
   <li>GOV-1790 American Foreign Policy

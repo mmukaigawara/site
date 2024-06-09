@@ -1,6 +1,6 @@
 <h1 id="working"></h1>
 
-<h2 style="margin: 100px 0px 60px;">Working Papers</h2>
+<h2 style="margin: 100px 0px 60px;">| Working Papers</h2>
 
 <ol style="margin:0 0 5px;">
   <!-- geocausal -->
