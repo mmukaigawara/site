@@ -2,13 +2,6 @@
 layout: homepage
 ---
 
-<fontcustombar style="margin: 0px 0px 30px;">
-<a href="#publications" style ="text-decoration: none">Publications</a>&emsp;
-<a href="#working" style ="text-decoration: none">Working Papers</a>&emsp;
-<a href="#software" style ="text-decoration: none">Statistical Software</a>&emsp;
-<a href="#teaching" style ="text-decoration: none">Teaching</a>
-</fontcustombar>
-
 <h1 id="bio"></h1>
 <br>
 <br>
