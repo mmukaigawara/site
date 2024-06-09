@@ -17,7 +17,6 @@
 </details>
 
 <br>
-<br>
 
 <!-- Medicine -->
 <details><summary><fontcustom style="margin: 30px 0px 0px;">Medicine</fontcustom></summary>
@@ -147,7 +146,6 @@
 </details>
 
 <br>
-<br>
 
 <!-- Case reports -->
 <details><summary><fontcustom style="margin: 30px 0px 0px;">Medicine (Case Reports and Case Series)</fontcustom></summary>
@@ -208,7 +206,6 @@
 </ol>
 </details>
 
-<br>
 <br>
 
 <!-- Commentary -->
