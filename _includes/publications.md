@@ -1,6 +1,6 @@
 <h1 id="publications"></h1>
 
-<h2 style="margin: 100px 0px 60px;">| Peer-Reviewed Publications</h2>
+<h2 style="margin: 100px 0px 60px;">| Publications</h2>
 
 <!-- Political Science -->
 <details open><summary><fontcustom>Political Science</fontcustom></summary>
