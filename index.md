@@ -9,7 +9,7 @@ layout: homepage
 <a href="#working" style ="text-decoration: none">Working Papers</a>&emsp;
 <a href="#software" style ="text-decoration: none">Software</a>&emsp;
 <a href="#teaching" style ="text-decoration: none">Teaching</a>
-<fontcustom>
+</fontcustom>
 
 <h1 id="bio"></h1>
 <h2 style="margin: -15px 0px 40px;">Bio</h2>
