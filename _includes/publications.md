@@ -5,7 +5,7 @@
 <!-- Political Science -->
 <details open><summary><fontcustom>Political Science</fontcustom></summary>
 
-<ol style="margin:0 0 5px;">
+<ol style="margin:0 0 10px;">
   <!-- Diplomacy by committee -->
   <li>Diplomacy by committee: Assessing resolve and costly signals in group settings.
   <br><font color="#a79d96">Carly Wayne, Mitsuru Mukaigawara, Joshua Kertzer, and Marcus Holmes.</font>
@@ -16,10 +16,13 @@
 </ol>
 </details>
 
+<br>
+<br>
+
 <!-- Medicine -->
 <details><summary><fontcustom style="margin: 30px 0px 0px;">Medicine</fontcustom></summary>
 
-<ol style="margin:0 0 5px;">
+<ol style="margin:0 0 10px;">
   <!-- BMJ Open 2022 -->
   <li><a href="https://bmjopen.bmj.com/content/12/7/e056996/">Impact of the national health guidance intervention for obesity and cardiovascular risks on healthcare utilisation and healthcare spending in working-age Japanese cohort: Regression discontinuity design.</a>
   <br><font color="#a79d96">Shingo Fukuma, Mitsuru Mukaigawara, Toshiaki Iizuka, and Yusuke Tsugawa.</font>
@@ -143,10 +146,13 @@
 </ol>
 </details>
 
+<br>
+<br>
+
 <!-- Case reports -->
 <details><summary><fontcustom style="margin: 30px 0px 0px;">Medicine (Case Reports and Case Series)</fontcustom></summary>
 
-<ol style="margin:0 0 5px;">
+<ol style="margin:0 0 10px;">
   <!-- NEJM 2020 -->
   <li><a href="https://www.nejm.org/doi/full/10.1056/NEJMcps1910306">Clinical problem-solving: A curve ball.</a>
   <br><font color="#a79d96">Mitsuru Mukaigawara, Reza Manesh, Mitsuyo Kinjo, Shuichi Sugita, and Andrew PJ Olson.</font>
@@ -202,10 +208,13 @@
 </ol>
 </details>
 
+<br>
+<br>
+
 <!-- Commentary -->
 <details><summary><fontcustom style="margin: 30px 0px 0px;">Commentary</fontcustom></summary>
 
-<ol style="margin:0 0 5px;">
+<ol style="margin:0 0 10px;">
   <!-- Nat Med 2023 -->
   <li><a href="https://doi.org/10.1038/s41591-023-02377-6">Lessons from COVID-19 must be learned before the next outbreak.</a>
   <br><font color="#a79d96">Ines Hassan, Genevie Fernandes, Mitsuru Mukaigawara, and Devi Sridhar.</font>
@@ -224,57 +233,3 @@
   <br><journal>JAMA Internal Medicine.</journal> 2016;176(11):1603.</li>
 </ol>
 </details>
-
-<!--
-
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
-
-<div class="publications">
-<ol class="bibliography">
-
-{% for link in site.data.publications.main %}
-
-<li>
-<div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% endif %}
-  </div>
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
-      </div>
-    <div class="links">
-      {% if link.pdf %} 
-      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      {% endif %}
-      {% if link.code %} 
-      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      {% endif %}
-      {% if link.page %} 
-      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      {% endif %}
-      {% if link.bibtex %} 
-      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
-      {% endif %}
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</journal></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
-  </div>
-</div>
-</li>
-
-<br>
-
-{% endfor %}
-
-</ol>
-</div>
-
--->
