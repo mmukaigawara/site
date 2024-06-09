@@ -1,6 +1,6 @@
 <h1 id="news"></h1>
 
-<h2 style="margin: 60px 0px 60px;">News</h2>
+<h2 style="margin: 100px 0px 60px;">News</h2>
 
 <ul style="margin:0 0 5px;">
   <li> "Diplomacy by committee: Assessing resolve and costly signals in group settings" has been accepted by <journal>American Journal of Political Science</journal>. (February 2024)</li>
