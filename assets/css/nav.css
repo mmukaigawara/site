@@ -18,12 +18,14 @@
   .topnav a:hover {
     background-color: #ffffff;
     text-decoration: underline;
+    color: black;
     text-decoration-color: #A9A9A9;
   }
 
   /* Add a color to the active/current link */
   .topnav active {
     background-color: #ffffff;
+    color: black;
     text-decoration: underline;
     text-decoration-color: #000000;
   }
