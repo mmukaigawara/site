@@ -1,11 +1,11 @@
 <h1 id="news"></h1>
 
-<h2 style="margin: 60px 0px 40px;">News</h2>
+<h2 style="margin: 60px 0px 60px;">News</h2>
 
 <ul style="margin:0 0 5px;">
   <li> "Diplomacy by committee: Assessing resolve and costly signals in group settings" has been accepted by <journal>American Journal of Political Science</journal>. (February 2024)</li>
-  <li> A new R package for spatiotemporal causal inference <a href = "https://github.com/mmukaigawara/geocausal/">"geocausal"</a> is now available through CRAN. (August 2023)</li>
-  <li> <a href="https://doi.org/10.1038/s41591-023-02377-6">"Lessons from COVID-19 must be learned before the next outbreak"</a> has been published in <journal>Nature Medicine</journal>. (June 2023)</li>
+  <li> A new R package for spatiotemporal causal inference <a href = "https://github.com/mmukaigawara/geocausal/">geocausal</a> is now available through CRAN. (August 2023)</li>
+  <li> <a href="https://doi.org/10.1038/s41591-023-02377-6">Lessons from COVID-19 must be learned before the next outbreak</a> has been published in <journal>Nature Medicine</journal>. (June 2023)</li>
 </ul>
 
 

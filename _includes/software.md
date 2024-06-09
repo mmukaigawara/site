@@ -1,6 +1,6 @@
 <h1 id="software"></h1>
 
-<h2 style="margin: 60px 0px 40px;">Statistical Software</h2>
+<h2 style="margin: 60px 0px 60px;">Statistical Software</h2>
 
 <ol style="margin:0 0 5px;">
   <li><a href="https://github.com/mmukaigawara/geocausal">geocausal: Causal inference with spatio-temporal data</a><br>

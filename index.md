@@ -12,7 +12,7 @@ layout: homepage
 </fontcustom>
 
 <h1 id="bio"></h1>
-<h2 style="margin: 40px 0px 40px;">Bio</h2>
+<h2 style="margin: 60px 0px 60px;">Bio</h2>
 
 Mitsuru Mukaigawara, MD, MPP, is a PhD candidate in Government and an AM candidate in Statistics at <a href = "https://www.gov.harvard.edu/">Harvard University</a>. He studies international relations, political methodology, and political psychology, with a focus on the effects of disease epidemics and health inequities on intrastate and interstate warfare and the effective use of micro-level, spatiotemporal data in causal inference. He is a Douglas Dillon fellow at Harvard and his work is supported by the <a href = "https://www.iq.harvard.edu/">Institute for Quantitative Social Science (IQSS)</a>, the <a href = "https://wcfia.harvard.edu/">Weatherhead Center for International Affairs</a>, and the <a href = "https://datascience.harvard.edu/">Harvard Data Science Initiative</a>. 
 <br>
