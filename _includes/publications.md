@@ -16,7 +16,7 @@
 </ol>
 </details>
 
-<br>
+<div style="height: 10px;"></div>
 
 <!-- Medicine -->
 <details><summary><fontcustom style="margin: 30px 0px 0px;">Medicine</fontcustom></summary>
