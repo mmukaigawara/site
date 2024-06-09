@@ -17,7 +17,7 @@
 </details>
 
 <!-- Medicine -->
-<details><summary><fontcustom>Medicine</fontcustom></summary>
+<details><summary><fontcustom style="margin: 30px 0px 0px;">Medicine</fontcustom></summary>
 
 <ol style="margin:0 0 5px;">
   <!-- BMJ Open 2022 -->
@@ -144,7 +144,7 @@
 </details>
 
 <!-- Case reports -->
-<details><summary><fontcustom>Medicine (Case Reports and Case Series)</fontcustom></summary>
+<details><summary><fontcustom style="margin: 30px 0px 0px;">Medicine (Case Reports and Case Series)</fontcustom></summary>
 
 <ol style="margin:0 0 5px;">
   <!-- NEJM 2020 -->
@@ -203,7 +203,7 @@
 </details>
 
 <!-- Commentary -->
-<details><summary><fontcustom>Commentary</fontcustom></summary>
+<details><summary><fontcustom style="margin: 30px 0px 0px;">Commentary</fontcustom></summary>
 
 <ol style="margin:0 0 5px;">
   <!-- Nat Med 2023 -->
