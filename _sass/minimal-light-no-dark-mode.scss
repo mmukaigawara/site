@@ -540,3 +540,8 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+details > summary {
+  background-color: #f3f1ec;
+  border: none;
+}
