@@ -145,7 +145,7 @@
 </ol>
 </details>
 
-<br>
+<div style="height: 10px;"></div>
 
 <!-- Case reports -->
 <details><summary><fontcustom style="margin: 30px 0px 0px;">Medicine (Case Reports and Case Series)</fontcustom></summary>
@@ -206,7 +206,7 @@
 </ol>
 </details>
 
-<br>
+<div style="height: 10px;"></div>
 
 <!-- Commentary -->
 <details><summary><fontcustom style="margin: 30px 0px 0px;">Commentary</fontcustom></summary>
