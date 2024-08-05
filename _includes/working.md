@@ -4,7 +4,7 @@
 
 <ol style="margin:0 0 5px;">
   <!-- geocausal -->
-  <li>geocausal: R package for spatio-temporal causal inference.
+  <li>geocausal: An R package for spatio-temporal causal inference.
   <br><font color="#a79d96">Mitsuru Mukaigawara, Georgia Papadogeorgou, Jason Lyall, and Kosuke Imai.</font></li>
   <details><summary>Abstract</summary><small>
   Scholars from diverse fields now use highly disaggregated ("microlevel") data with fine-grained spatial (e.g., locations of villages and individuals) and temporal (days, hours, or even seconds) dimensions to test their theories. Despite the proliferation of these data, however, statistical methods for causal inference with spatio-temporal data remain underdeveloped. We introduce an R package, geocausal, that enables researchers to implement causal inference methods for highly disaggregated spatio-temporal data. The geocausal package helps users implement two necessary steps for spatio-temporal causal inference: (1) preparing the data and (2) estimating causal effects. The geocausal package allows users to effectively use fine-grained spatio-temporal data, test counterfactual scenarios that have spatial and temporal dimensions, and visualize each step efficiently. We illustrate the capabilities of the geocausal package by analyzing the US airstrikes and insurgent attacks in Iraq over various spatial and temporal windows. 

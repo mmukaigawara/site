@@ -7,7 +7,7 @@
 
 <ol style="margin:0 0 10px;">
   <!-- Diplomacy by committee -->
-  <li>Diplomacy by committee: Assessing resolve and costly signals in group settings.
+  <li><a href="https://doi.org/10.1111/ajps.12892">Diplomacy by committee: Assessing resolve and costly signals in group settings.</a>
   <br><font color="#a79d96">Carly Wayne, Mitsuru Mukaigawara, Joshua Kertzer, and Marcus Holmes.</font>
   <br><journal>American Journal of Political Science.</journal> (Accepted)</li>
   <details><summary>Abstract</summary><small>
