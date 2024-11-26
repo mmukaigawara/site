@@ -3,6 +3,8 @@
 <h2 style="margin: 100px 0px 60px;">| Teaching</h2>
 
 <ul style="margin:0 0 5px;">
+  <li>GOV-1742 Psychology of International Relations
+  <br>TF for Joshua Kertzer (Spring 2025)</li>
   <li>GOV-1790 American Foreign Policy
   <br>TF for Joshua Kertzer (Fall 2024)</li>
   <li>GOV-2001 Quantitative Social Science Methods I
