@@ -7,8 +7,8 @@
   <br>TF for Joshua Kertzer (Spring 2025)</li>
   <li>GOV-1790 American Foreign Policy
   <br>TF for Joshua Kertzer (Fall 2024)</li>
-  <li>GOV-2001 Quantitative Social Science Methods I
+  <li>GOV-2001 Causal Inference with Applications
   <br>TF for Kosuke Imai (Spring 2024)</li>
-  <li><a href="https://mattblackwell.github.io/gov2002-f23/">GOV-2002 Quantitative Social Science Methods II</a>
+  <li>GOV-2002 Quantitative Social Science Methods II
   <br>TF for Matthew Blackwell (Fall 2023)</li>
 </ul>
