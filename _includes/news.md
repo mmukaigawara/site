@@ -3,7 +3,6 @@
 <h2 style="margin: 100px 0px 60px;">| News</h2>
 
 <ul style="margin:0 0 5px;">
-  <li> Merit Research Fellowship (Harvard University) (March 2025)</li>
   <li> <a href = "https://doi.org/10.31219/osf.io/5kc6f">geocausal: An R package for spatio-temporal causal inference</a> is now available. (August 2024)</li>
   <li> <a href = "https://doi.org/10.1111/ajps.12892">Diplomacy by committee: Assessing resolve and costly signals in group settings</a> has been published in <journal>American Journal of Political Science</journal>. (August 2024)</li>
 </ul>
