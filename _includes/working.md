@@ -4,7 +4,7 @@
 
 <ol style="margin:0 0 5px;">
   <!-- spt -->
-  <li>Spatiotemporal causal inference with arbitrary spillover and carryover effects.
+  <li><a href = "https://arxiv.org/abs/2504.03464">Spatiotemporal causal inference with arbitrary spillover and carryover effects</a>.
   <br><font color="#a79d96">Mitsuru Mukaigawara, Kosuke Imai, Jason Lyall, and Georgia Papadogeorgou.</font></li>
   <details><summary>Abstract</summary><small>
   Micro-level data with granular spatial and temporal information are becoming increasingly available to social scientists. Most researchers aggregate such data into a convenient panel data format and apply standard causal inference methods. This approach, however, has two limitations. First, data aggregation results in the loss of detailed geo-location and temporal information, leading to potential biases. Second, most panel data methods either ignore spatial spillover and temporal carryover effects or impose restrictive assumptions on their structure. We introduce a general methodological framework for spatiotemporal causal inference with arbitrary spillover and carryover effects. Under this general framework, we demonstrate how to define and estimate causal quantities of interest, explore heterogeneous treatment effects, investigate causal mechanisms, and visualize the results to facilitate their interpretation. We illustrate the proposed methodology through an analysis of airstrikes and insurgent attacks in Iraq. The open-source software package geocausal implements all of our methods.
