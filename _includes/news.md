@@ -11,10 +11,10 @@ Publications
   <li> <a href = "https://doi.org/10.1111/ajps.12892">Diplomacy by committee: Assessing resolve and costly signals in group settings</a> has been published in <journal>American Journal of Political Science</journal>. (August 2024)</li>
 </ul>
 
-Presentations
+Invited Presentations
 
 <ul style="margin:0 0 5px;">
-  <li> Invited presentation: <a href = "https://www.dfki.de/en/web">German Research Center for Artificial Intelligence</a> (August 2025)</li>
-  <li> Invited presentation: <a href = "https://globalhealththreatscommission.org/">Lancet Commission on 21st-Century Global Threats to Health</a> (March 2025)</li>
-  <li> Invited presentation: <a href = "https://www.healthdata.org/">Institute for Health Metrics and Evaluation</a> (March 2025)</li>
+  <li> <a href = "https://www.dfki.de/en/web">German Research Center for Artificial Intelligence</a> (August 2025)</li>
+  <li> <a href = "https://globalhealththreatscommission.org/">Lancet Commission on 21st-Century Global Threats to Health</a> (March 2025)</li>
+  <li> <a href = "https://www.healthdata.org/">Institute for Health Metrics and Evaluation</a> (March 2025)</li>
 </ul>
