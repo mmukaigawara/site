@@ -3,13 +3,19 @@
 <h2 style="margin: 100px 0px 60px;">| Working Papers</h2>
 
 <ol style="margin:0 0 5px;">
-  <!-- spt -->
+  <!-- sibs -->
+  <li><a href = "https://garyking.org/sibs">Survey estimates of wartime mortality</a>.
+  <br><font color="#a79d96">Gary King and Mitsuru Mukaigawara.</font></li>
+  <details><summary>Abstract</summary><small>
+  Many scholarly literatures require mortality rates from conflict zones, but accurate information is usually among the earliest casualties of war. While political scientists typically obtain mortality data from others, much progress has been made in demography, epidemiology, and public health via original surveys about the survival of siblings, friends, or others known to respondents. Unfortunately, the formal properties of estimators based on these surveys have not been established, the intuitions offered for them (and consequent data analysis strategies) are conflicting, and the statistical consequences of the political incentives of respondents in conflict zones remain unexamined. In this paper, we demonstrate the advantages of joining ongoing efforts in these other fields with insights from political science, including especially political methodology, international relations, and comparative politics. We offer the first formal proofs of the statistical properties of all existing estimators, along with simulation and empirical illustrations, to craft simple intuitions to guide best practices. We also build practical data analytic approaches, based on modern robust statistical methods, for when some respondents are suspected of intentionally biasing answers for political, military, or other strategic purposes.
+  </small></details>
+  <!-- geocausal -->
   <li><a href = "https://arxiv.org/abs/2504.03464">Spatiotemporal causal inference with arbitrary spillover and carryover effects</a>.
   <br><font color="#a79d96">Mitsuru Mukaigawara, Kosuke Imai, Jason Lyall, and Georgia Papadogeorgou.</font></li>
   <details><summary>Abstract</summary><small>
   Micro-level data with granular spatial and temporal information are becoming increasingly available to social scientists. Most researchers aggregate such data into a convenient panel data format and apply standard causal inference methods. This approach, however, has two limitations. First, data aggregation results in the loss of detailed geo-location and temporal information, leading to potential biases. Second, most panel data methods either ignore spatial spillover and temporal carryover effects or impose restrictive assumptions on their structure. We introduce a general methodological framework for spatiotemporal causal inference with arbitrary spillover and carryover effects. Under this general framework, we demonstrate how to define and estimate causal quantities of interest, explore heterogeneous treatment effects, investigate causal mechanisms, and visualize the results to facilitate their interpretation. We illustrate the proposed methodology through an analysis of airstrikes and insurgent attacks in Iraq. The open-source software package geocausal implements all of our methods.
   </small></details>
-  <!-- geocausal -->
+  <!-- software -->
   <li><a href = "https://doi.org/10.31219/osf.io/5kc6f">geocausal: An R package for spatio-temporal causal inference</a>.
   <br><font color="#a79d96">Mitsuru Mukaigawara, Lingxiao Zhou, Georgia Papadogeorgou, Jason Lyall, and Kosuke Imai.</font></li>
   <details><summary>Abstract</summary><small>
