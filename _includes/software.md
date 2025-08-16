@@ -3,6 +3,9 @@
 <h2 style="margin: 100px 0px 60px;">| Statistical Software</h2>
 
 <ol style="margin:0 0 5px;">
+  <li><a href="https://github.com/mmukaigawara/trimsib">trimsib: Survey estimates of wartime mortality</a><br>
+  <font color="#a79d96">Mitsuru Mukaigawara and Gary King.</font><br>
+  <a href="https://github.com/mmukaigawara/trimsib">GitHub</a></li>
   <li><a href="https://github.com/mmukaigawara/geocausal">geocausal: Causal inference with spatio-temporal data</a><br>
   <font color="#a79d96">Mitsuru Mukaigawara, Georgia Papadogeorgou, Jason Lyall, and Kosuke Imai.</font><br>
   <a href="https://github.com/mmukaigawara/geocausal">GitHub</a> | <a href="https://cran.r-project.org/package=geocausal">CRAN</a></li>
