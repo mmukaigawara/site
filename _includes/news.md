@@ -14,8 +14,8 @@ Publications
 Invited Presentations
 
 <ul style="margin:0 0 5px;">
+  <li> <a href = "https://www.healthdata.org/">Institute for Health Metrics and Evaluation</a> (December 2025)</li>
   <li> <a href = "https://www.isct.ac.jp/en">Institute of Science Tokyo</a> (September 2025)</li>
   <li> <a href = "https://www.dfki.de/en/web">German Research Center for Artificial Intelligence</a> (August 2025)</li>
   <li> <a href = "https://globalhealththreatscommission.org/">Lancet Commission on 21st-Century Global Threats to Health</a> (March 2025)</li>
-  <li> <a href = "https://www.healthdata.org/">Institute for Health Metrics and Evaluation</a> (March 2025)</li>
 </ul>
